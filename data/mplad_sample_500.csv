@@ -1,0 +1,759 @@
+project_id,constituency_id,district,state,mp_name,work_category,sanctioned_amount,released_amount,expenditure_amount,sanction_date,completion_date,status,implementing_agency,contractor_name,contractor_reg_no,contractor_address,contractor_pan,latitude,longitude,completion_certificate,geo_photo_uploaded,financial_year
+M-THA-2023-0001,MH-04,Thane,Maharashtra,MP Nimrat Shankar,water,479068,447379,443470,2023-08-05,2023-11-30,completed,Zila Parishad Engineering Division,Nagi-Chaudhry Builders,REG-127,"563, Dada Ganj, Thane, PIN - 523160",HMKRU7899R,19.173861,72.933832,True,True,2023-24
+UP-MEE-2023-0002,UP-09,Meerut,Uttar Pradesh,MP Vedant Chadha,drainage,998050,998050,998050,2023-11-19,2024-03-11,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"84, Rajan Nagar, Meerut, PIN - 800001",MDUIN9988K,28.989274,77.692497,False,False,2023-24
+R-KOT-2024-0003,RJ-03,Kota,Rajasthan,MP Harsh Bhatti,drainage,1056043,910437,849677,2024-03-11,2024-08-20,completed,Zila Parishad Engineering Division,Ganesan Inc Builders,REG-277,"13/433
+Rama Circle, Kota, PIN - 591992",XWTBD2365K,25.23532,75.785554,True,True,2024-25
+T-WAR-2023-0004,TS-02,Warangal,Telangana,MP Bhavika Din,road,485067,485067,485067,2023-10-14,2024-03-21,completed,District Rural Development Agency (DRDA),National Infra Conclave,REG-DL-990,"65/89
+Mall Path, Warangal, PIN - 110001",NATIN3322R,17.920806,79.573796,True,True,2023-24
+O-CUT-2023-0005,OD-02,Cuttack,Odisha,MP Nathaniel Prakash,building,3844462,3558051,3311163,2023-12-12,2024-10-01,completed,Water Supply & Sanitation Board,Borra Inc Builders,REG-170,"H.No. 67
+Ganguly Zila, Cuttack, PIN - 366150",ITBLZ9022L,20.430212,85.849332,True,True,2023-24
+WB-DAR-2023-0006,WB-03,Darjeeling,West Bengal,MP Orinder Dugal,water,882157,846055,772550,2023-03-26,2023-07-06,completed,Water Supply & Sanitation Board,"Chakrabarti, Borra and Tata Builders",REG-912,"795, Khalsa Ganj, Darjeeling, PIN - 256583",RGZAK4724Z,26.988038,88.244955,True,True,2023-24
+K-MYS-2023-0007,KA-02,Mysuru,Karnataka,MP Yashica Rajan,road,2780000,2780000,2724400,2023-11-27,,stalled,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"75/70, Virk Road, Mysuru, PIN - 302001",RYHB8822P,12.291703,76.5839,False,False,2023-24
+G-SUR-2024-0008,GJ-02,Surat,Gujarat,MP Rachita Jhaveri,road,1103080,1086305,1033248,2024-10-20,,stalled,Rural Engineering Services (RES),"Krishna, Mittal and Das Builders",REG-187,"23
+Gill Road, Surat, PIN - 370247",YMVKB6015J,21.135433,72.876662,False,False,2024-25
+O-KHO-2024-0009,OD-01,Khordha,Odisha,MP Girik Swamy,drainage,1003731,956787,907097,2024-03-02,2024-05-28,completed,District Rural Development Agency (DRDA),"Shukla, Peri and Narain Builders",REG-925,"H.No. 42
+Tara Street, Khordha, PIN - 277414",GPOSS4428Y,20.10324,85.55204,True,True,2024-25
+O-CUT-2023-0010,OD-02,Cuttack,Odisha,MP Nathaniel Rastogi,community_hall,4283415,3831100,3625859,2023-05-21,2024-01-26,completed,Zila Parishad Engineering Division,Tandon-Kulkarni Builders,REG-604,"H.No. 11
+Vaidya Circle, Cuttack, PIN - 231761",XFBVX3419J,20.522362,85.93916,True,True,2023-24
+UP-VAR-2023-0011,UP-05,Varanasi,Uttar Pradesh,MP Chakrika Rama,road,1830308,1675934,1612551,2023-11-21,2024-06-01,completed,Rural Engineering Services (RES),Kashyap-Chanda Builders,REG-437,"H.No. 431
+Badal Nagar, Varanasi, PIN - 351192",IBWTA5572G,25.367994,82.923159,True,True,2023-24
+MP-JAB-2023-0012,MP-03,Jabalpur,Madhya Pradesh,MP Agastya Parekh,community_hall,2303217,2283340,2091401,2023-02-05,,ongoing,Public Works Department (PWD),Din-Manne Builders,REG-333,"72, Gaba Circle, Jabalpur, PIN - 643541",MNBWE1786D,23.229862,80.014943,False,False,2023-24
+O-CUT-2024-0013,OD-02,Cuttack,Odisha,MP Nachiket Dhar,building,2940300,2527189,2439994,2024-08-04,2025-06-24,completed,Municipal Corporation Engineering Cell,Tripathi Ltd Builders,REG-251,"280
+Chaudhari Path, Cuttack, PIN - 725104",NAXFD7983A,20.505305,85.895064,True,True,2024-25
+K-DHA-2024-0014,KA-03,Dharwad,Karnataka,MP Praneel Ravi,road,1868448,1777724,1668372,2024-11-24,,stalled,Municipal Corporation Engineering Cell,Sibal-Mukhopadhyay Builders,REG-540,"H.No. 28, Chad Circle, Dharwad, PIN - 243636",OLABW9585E,15.380763,75.077299,False,False,2024-25
+B-GAY-2024-0015,BR-02,Gaya,Bihar,MP Pratyush Dalal,water,1082968,986033,910601,2024-01-17,,ongoing,Rural Engineering Services (RES),Vala-Bobal Builders,REG-373,"H.No. 280
+Bala Chowk, Gaya, PIN - 649403",UVUON5192S,24.839602,84.991896,False,False,2024-25
+MP-JAB-2023-0016,MP-03,Jabalpur,Madhya Pradesh,MP Yauvani Rajagopal,road,1161588,1040422,989268,2023-02-26,2023-07-22,completed,District Rural Development Agency (DRDA),Sami Ltd Builders,REG-195,"09
+Tak, Jabalpur, PIN - 796385",LAYFR1619I,23.253557,79.964535,True,True,2023-24
+O-KHO-2024-0017,OD-01,Khordha,Odisha,MP Saumya Kari,community_hall,3165012,2795535,2611409,2024-12-15,2025-09-19,completed,District Rural Development Agency (DRDA),"Dyal, Cheema and Thaman Builders",REG-163,"40/38
+Dhingra Path, Khordha, PIN - 268471",QKJJE0428S,20.184718,85.650135,True,True,2024-25
+B-MUZ-2023-0018,BR-03,Muzaffarpur,Bihar,MP Isaiah Sachdev,solar,536377,492692,481922,2023-04-04,2023-07-30,completed,Water Supply & Sanitation Board,Chaudhary-Bajaj Builders,REG-195,"468
+Oza Zila, Muzaffarpur, PIN - 418528",NEGKO2474A,26.162044,85.29214,True,True,2023-24
+WB-MUR-2024-0019,WB-04,Murshidabad,West Bengal,MP Tara Naidu,building,2488277,2488277,2488277,2024-01-17,2024-11-08,completed,Public Works Department (PWD),National Infra Conclave,REG-DL-990,"88, Goel Ganj, Murshidabad, PIN - 110001",NATIN3322R,24.206591,88.227984,False,False,2024-25
+K-MYS-2024-0020,KA-02,Mysuru,Karnataka,MP Nakul Dhaliwal,solar,700538,700538,700538,2024-09-13,2024-11-06,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"571
+Wali, Mysuru, PIN - 462001",SDPL4433Q,12.371079,76.631855,False,False,2024-25
+G-RAJ-2024-0021,GJ-04,Rajkot,Gujarat,MP Sanya Madan,community_hall,1773367,1756212,1691685,2024-12-18,2025-09-14,completed,Zila Parishad Engineering Division,Dani Ltd Builders,REG-396,"10, Sodhi Marg, Rajkot, PIN - 454061",MRBKP0321I,22.323767,70.768693,True,True,2024-25
+TN-COI-2024-0022,TN-02,Coimbatore,Tamil Nadu,MP Rajeshri Gera,community_hall,4420000,4420000,4331600,2024-12-04,,ongoing,District Rural Development Agency (DRDA),M/s Maa Durga Infrastructure,REG-BR-442,"57/50
+Mistry Zila, Coimbatore, PIN - 800001",MDUIN9988K,10.982548,77.011368,False,False,2024-25
+UP-KAN-2023-0023,UP-04,Kanpur Nagar,Uttar Pradesh,MP Ubika Purohit,community_hall,2144561,1915076,1771552,2023-04-09,2023-12-05,completed,Zila Parishad Engineering Division,"Lalla, Buch and Choudhry Builders",REG-610,"89, Patla Chowk, Kanpur Nagar, PIN - 433528",KZXVY7119O,26.40254,80.338488,True,True,2023-24
+O-PUR-2024-0024,OD-03,Puri,Odisha,MP Nachiket Virk,community_hall,1450359,1295382,1251921,2024-04-17,2024-03-27,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"91/745, Kumer Zila, Puri, PIN - 800001",MDUIN9988K,19.800151,85.877298,False,False,2024-25
+K-DHA-2024-0025,KA-03,Dharwad,Karnataka,MP Vedika Thakkar,sanitation,311393,299954,286354,2024-04-21,2024-04-05,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"79/319, Deshpande Ganj, Dharwad, PIN - 110001",NATIN3322R,15.503083,75.082086,False,False,2024-25
+WB-MUR-2024-0026,WB-04,Murshidabad,West Bengal,MP Nitesh Bhatia,road,1808128,1580555,1556216,2024-01-14,2023-11-30,completed,District Rural Development Agency (DRDA),Surya Dev Projects Ltd,REG-MP-883,"202
+Menon Path, Murshidabad, PIN - 462001",SDPL4433Q,24.170513,88.350199,True,True,2024-25
+A-SIL-2024-0027,AS-03,Silchar,Assam,MP Theodore Yogi,community_hall,2250889,2177970,2029401,2024-08-26,2025-03-28,completed,Public Works Department (PWD),Ravel-Brahmbhatt Builders,REG-115,"H.No. 84
+Dani Zila, Silchar, PIN - 485644",UPHZZ5718E,24.836597,92.824701,True,True,2024-25
+R-KOT-2024-0028,RJ-03,Kota,Rajasthan,MP Faris Dara,water,714737,658436,629552,2024-05-07,2024-10-13,completed,Water Supply & Sanitation Board,"Sinha, Rattan and Sethi Builders",REG-146,"79/89, Nagy Path, Kota, PIN - 167174",ZNHCF2105I,25.24083,75.856107,True,True,2024-25
+T-NIZ-2024-0029,TS-03,Nizamabad,Telangana,MP Wridesh Yogi,road,1411722,1309414,1279362,2024-05-18,,stalled,Water Supply & Sanitation Board,"Vasa, Kanda and Karnik Builders",REG-151,"96/912, Gupta, Nizamabad, PIN - 286149",ABXLD9830O,18.663789,78.021116,False,False,2024-25
+TN-COI-2023-0030,TN-02,Coimbatore,Tamil Nadu,MP Avni Chaudhry,solar,804996,709987,687651,2023-11-03,2024-02-11,completed,Water Supply & Sanitation Board,"Comar, Brahmbhatt and Tata Builders",REG-150,"H.No. 006, Borah Nagar, Coimbatore, PIN - 816707",KIJSU5001T,11.022841,76.988239,True,True,2023-24
+WB-KOL-2024-0031,WB-01,Kolkata,West Bengal,MP Idika Pandey,community_hall,4420000,4420000,4331600,2024-01-03,2024-09-15,completed,Rural Engineering Services (RES),National Infra Conclave,REG-DL-990,"17/39
+Shroff Road, Kolkata, PIN - 110001",NATIN3322R,22.557821,88.35608,True,True,2024-25
+UP-MEE-2023-0032,UP-09,Meerut,Uttar Pradesh,MP Krish Nagarajan,solar,1080000,1080000,1058400,2023-11-24,2024-01-15,completed,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"64
+Sharma Path, Meerut, PIN - 302001",RYHB8822P,29.052988,77.643382,True,True,2023-24
+MP-BHO-2023-0033,MP-01,Bhopal,Madhya Pradesh,MP Ayush Nagy,drainage,1166089,1059565,1038107,2023-08-06,,stalled,Water Supply & Sanitation Board,"Lalla, Buch and Choudhry Builders",REG-610,"01
+Sunder Ganj, Bhopal, PIN - 433528",KZXVY7119O,23.333521,77.355652,False,False,2023-24
+UP-BAR-2023-0034,UP-03,Barabanki,Uttar Pradesh,MP Tristan Shankar,solar,606387,564287,561295,2023-02-02,2023-06-12,completed,Zila Parishad Engineering Division,Dani Ltd Builders,REG-396,"010, Nayak Marg, Barabanki, PIN - 454061",MRBKP0321I,26.966927,81.248867,True,True,2023-24
+K-DHA-2024-0035,KA-03,Dharwad,Karnataka,MP Megha Chadha,sanitation,612896,612896,612896,2024-04-04,2024-06-25,completed,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"48
+Setty, Dharwad, PIN - 225001",ABCDE1234F,15.482048,74.939503,False,False,2024-25
+M-AUR-2024-0036,MH-05,Aurangabad,Maharashtra,MP Leela Keer,community_hall,3131747,2708982,2605909,2024-06-12,2025-03-09,completed,Water Supply & Sanitation Board,"Kothari, Dani and Ganesh Builders",REG-838,"H.No. 38
+Choudhary Zila, Aurangabad, PIN - 396741",HYZUS6445Z,19.873938,75.315835,True,True,2024-25
+MP-GWA-2023-0037,MP-04,Gwalior,Madhya Pradesh,MP Meera Konda,building,2268935,2146697,1991422,2023-06-08,2024-04-13,completed,Rural Engineering Services (RES),Krish and Sons Builders,REG-565,"61/726, Swamy Zila, Gwalior, PIN - 202337",KICEK4647B,26.247033,78.15585,True,True,2023-24
+K-MYS-2024-0038,KA-02,Mysuru,Karnataka,MP Kabir Gour,road,2114047,1995645,1941248,2024-03-18,2024-09-30,completed,Municipal Corporation Engineering Cell,Mishra PLC Builders,REG-365,"H.No. 780
+Banik Nagar, Mysuru, PIN - 188629",DBUFF4690S,12.31686,76.689423,True,True,2024-25
+TN-COI-2023-0039,TN-02,Coimbatore,Tamil Nadu,MP Anamika Choudhary,drainage,1708732,1708732,1708732,2023-06-13,2023-11-18,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 799, Venkatesh Road, Coimbatore, PIN - 800001",MDUIN9988K,11.018466,76.939286,False,False,2023-24
+A-KAM-2023-0040,AS-01,Kamrup Metropolitan,Assam,MP William Mannan,solar,631245,626388,605054,2023-09-05,2023-11-16,completed,Rural Engineering Services (RES),Din-Manne Builders,REG-333,"H.No. 574
+Basu Ganj, Kamrup Metropolitan, PIN - 643541",MNBWE1786D,26.214768,91.662667,True,True,2023-24
+T-NIZ-2024-0041,TS-03,Nizamabad,Telangana,MP Upadhriti Sankaran,water,761335,721196,656520,2024-08-15,,stalled,Municipal Corporation Engineering Cell,Bir Ltd Builders,REG-562,"724, Dutt Chowk, Nizamabad, PIN - 291043",DUSFP6921C,18.72608,78.056231,False,False,2024-25
+UP-PRA-2024-0042,UP-06,Prayagraj,Uttar Pradesh,MP Qadim Wason,solar,585629,574008,544553,2024-07-08,,ongoing,Public Works Department (PWD),Sahota and Sons Builders,REG-777,"73/81
+Sandal Nagar, Prayagraj, PIN - 348968",NZJOV6857B,25.436094,81.788535,False,False,2024-25
+K-MYS-2023-0043,KA-02,Mysuru,Karnataka,MP Ekanta Bali,community_hall,2774579,2774579,2774579,2023-11-08,2024-06-11,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"63
+Chandran Marg, Mysuru, PIN - 225001",ABCDE1234F,12.310327,76.662961,False,False,2023-24
+M-PUN-2023-0044,MH-01,Pune,Maharashtra,MP Saumya Chana,solar,574949,501372,459574,2023-03-21,2023-04-20,completed,Municipal Corporation Engineering Cell,"Palan, Tak and Gade Builders",REG-698,"08/56, Mand Ganj, Pune, PIN - 354068",KEIFX7095Y,18.593718,73.872597,True,True,2023-24
+M-SOL-2024-0045,MH-06,Solapur,Maharashtra,MP Chaitaly Chacko,drainage,1502858,1309600,1254943,2024-08-06,2024-07-08,completed,Zila Parishad Engineering Division,Royal Highway Builders,REG-RJ-551,"H.No. 414, Radhakrishnan Ganj, Solapur, PIN - 302001",RYHB8822P,17.622223,75.94227,True,True,2024-25
+M-PUN-2023-0046,MH-01,Pune,Maharashtra,MP Qushi Banik,road,1134057,1035359,947308,2023-04-17,2023-11-05,completed,District Rural Development Agency (DRDA),Tata-Mohan Builders,REG-524,"H.No. 339
+Andra Zila, Pune, PIN - 796735",CXDLR7947E,18.516539,73.87506,True,True,2023-24
+K-MYS-2023-0047,KA-02,Mysuru,Karnataka,MP Amruta Kannan,solar,665397,652903,633162,2023-11-21,,ongoing,Rural Engineering Services (RES),"Modi, Wable and Sur Builders",REG-196,"H.No. 20
+Ranganathan Ganj, Mysuru, PIN - 695066",PJXKU6063K,12.365947,76.63654,False,False,2023-24
+MP-GWA-2024-0048,MP-04,Gwalior,Madhya Pradesh,MP Balhaar Kannan,building,5074116,4528597,4472789,2024-08-25,2024-08-07,completed,District Rural Development Agency (DRDA),National Infra Conclave,REG-DL-990,"H.No. 82
+Devan Zila, Gwalior, PIN - 110001",NATIN3322R,26.168543,78.216264,False,False,2024-25
+A-KAM-2024-0049,AS-01,Kamrup Metropolitan,Assam,MP Eesha Wable,water,1039977,923546,910152,2024-06-04,,ongoing,Water Supply & Sanitation Board,Dass and Sons Builders,REG-858,"H.No. 10, Kapadia Marg, Kamrup Metropolitan, PIN - 617993",DZLVH4612N,26.123003,91.70029,False,False,2024-25
+TN-MAD-2024-0050,TN-03,Madurai,Tamil Nadu,MP Caleb Baral,solar,478695,478695,478695,2024-05-10,2024-06-23,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"23
+Subramanian Street, Madurai, PIN - 462001",SDPL4433Q,9.916655,78.15169,False,False,2024-25
+MP-IND-2024-0051,MP-02,Indore,Madhya Pradesh,MP Yahvi Das,sanitation,770000,770000,754600,2024-09-20,2024-11-03,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"794, Sem Circle, Indore, PIN - 800001",MDUIN9988K,22.771321,75.853167,True,True,2024-25
+R-BIK-2023-0052,RJ-05,Bikaner,Rajasthan,MP Bachittar Dubey,road,2780000,2780000,2724400,2023-12-13,,stalled,Water Supply & Sanitation Board,National Infra Conclave,REG-DL-990,"H.No. 27, Din Road, Bikaner, PIN - 110001",NATIN3322R,28.094215,73.363137,False,False,2023-24
+A-KAM-2024-0053,AS-01,Kamrup Metropolitan,Assam,MP Riya Nori,solar,424759,424759,424759,2024-04-02,2024-07-08,completed,Public Works Department (PWD),Apex Civil Enterprises,REG-MH-109,"H.No. 069
+Mannan Circle, Kamrup Metropolitan, PIN - 411001",APXCE7711Z,26.102781,91.656246,False,False,2024-25
+T-WAR-2024-0054,TS-02,Warangal,Telangana,MP Diya Sane,drainage,1312276,1118459,1085310,2024-11-13,2025-03-26,completed,Municipal Corporation Engineering Cell,Dutt-Lalla Builders,REG-528,"631, Borde Chowk, Warangal, PIN - 671527",TRCIO9558Q,17.934419,79.646862,True,True,2024-25
+MP-IND-2023-0055,MP-02,Indore,Madhya Pradesh,MP Jacob Anne,solar,639212,550270,511434,2023-05-06,2023-07-23,completed,Municipal Corporation Engineering Cell,Brar Group Builders,REG-916,"H.No. 26, Kata, Indore, PIN - 661356",PQQMW4034U,22.792673,75.917878,True,True,2023-24
+R-KOT-2024-0056,RJ-03,Kota,Rajasthan,MP Urvi Devi,sanitation,329523,303917,281360,2024-11-15,,ongoing,Zila Parishad Engineering Division,Dalal-Chandran Builders,REG-693,"977, Ramanathan Nagar, Kota, PIN - 580711",DFPTR1747Y,25.242106,75.821589,False,False,2024-25
+B-DAR-2024-0057,BR-05,Darbhanga,Bihar,MP Yadavi Thaker,road,1356528,1342568,1272292,2024-11-24,2025-05-28,completed,Water Supply & Sanitation Board,Vohra PLC Builders,REG-341,"H.No. 70, Nadkarni Ganj, Darbhanga, PIN - 217798",IENCN9378E,26.217291,85.854852,True,True,2024-25
+B-MUZ-2023-0058,BR-03,Muzaffarpur,Bihar,MP Chanchal Choudhury,building,4610758,4027032,3667292,2023-04-27,2024-02-21,completed,Municipal Corporation Engineering Cell,Jain Ltd Builders,REG-844,"35/40
+Ahuja, Muzaffarpur, PIN - 432448",AKGJV8906X,26.139112,85.406979,True,True,2023-24
+TN-TIR-2024-0059,TN-04,Tiruchirappalli,Tamil Nadu,MP Anika Dora,sanitation,770000,770000,754600,2024-08-06,,stalled,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"97/45, Mitra Marg, Tiruchirappalli, PIN - 411001",APXCE7711Z,10.719164,78.752583,False,False,2024-25
+MP-IND-2023-0060,MP-02,Indore,Madhya Pradesh,MP Bishakha Sagar,sanitation,344794,328720,296236,2023-08-04,2023-09-22,completed,Municipal Corporation Engineering Cell,Oommen-Lala Builders,REG-932,"83/35, Modi Marg, Indore, PIN - 841758",XRANK0752Q,22.732561,75.82977,True,True,2023-24
+R-KOT-2023-0061,RJ-03,Kota,Rajasthan,MP Vedant Rege,water,1101154,997476,982945,2023-08-14,2023-12-23,completed,Municipal Corporation Engineering Cell,"Kant, Nanda and Lalla Builders",REG-848,"44/348, Vohra Nagar, Kota, PIN - 590718",KTSWL4588C,25.162582,75.805782,True,True,2023-24
+MP-BHO-2023-0062,MP-01,Bhopal,Madhya Pradesh,MP Pallavi Amble,building,3518908,3213565,2935421,2023-12-05,2023-11-24,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"39/317
+Vora Chowk, Bhopal, PIN - 110001",NATIN3322R,23.29519,77.458253,False,False,2023-24
+M-NAS-2023-0063,MH-03,Nashik,Maharashtra,MP Ikbal Kunda,road,1347393,1347393,1347393,2023-05-16,2023-11-19,completed,Zila Parishad Engineering Division,Shree Ram Construction,REG-UP-001,"H.No. 93
+Bansal Road, Nashik, PIN - 225001",ABCDE1234F,20.006699,73.839403,False,False,2023-24
+R-UDA-2023-0064,RJ-04,Udaipur,Rajasthan,MP Vedika Merchant,sanitation,349460,348378,323455,2023-10-19,2023-11-26,completed,District Rural Development Agency (DRDA),"Ganguly, Kothari and Loyal Builders",REG-252,"21
+Palan Zila, Udaipur, PIN - 146332",YLSMJ4392O,24.583399,73.750344,True,True,2023-24
+A-KAM-2024-0065,AS-01,Kamrup Metropolitan,Assam,MP Hemangini Oommen,water,630834,542959,497459,2024-11-20,2025-01-26,completed,Zila Parishad Engineering Division,Ganesan Inc Builders,REG-277,"85/43
+Bal Zila, Kamrup Metropolitan, PIN - 591992",XWTBD2365K,26.115201,91.702817,True,True,2024-25
+O-PUR-2024-0066,OD-03,Puri,Odisha,MP Andrew Mistry,solar,629672,603959,583546,2024-07-06,2024-06-06,completed,District Rural Development Agency (DRDA),Surya Dev Projects Ltd,REG-MP-883,"H.No. 398
+Amble Path, Puri, PIN - 462001",SDPL4433Q,19.760206,85.767681,True,True,2024-25
+T-HYD-2023-0067,TS-01,Hyderabad,Telangana,MP Isaac Modi,road,2780000,2780000,2724400,2023-05-20,2023-12-10,completed,Municipal Corporation Engineering Cell,National Infra Conclave,REG-DL-990,"68, Trivedi Nagar, Hyderabad, PIN - 110001",NATIN3322R,17.375906,78.426926,True,True,2023-24
+R-UDA-2024-0068,RJ-04,Udaipur,Rajasthan,MP Hemal Nazareth,sanitation,430474,383492,362202,2024-08-15,,stalled,Water Supply & Sanitation Board,Tata-Mohan Builders,REG-524,"77/86
+Bajwa Marg, Udaipur, PIN - 796735",CXDLR7947E,24.599933,73.705547,False,False,2024-25
+R-UDA-2023-0069,RJ-04,Udaipur,Rajasthan,MP Ira Kade,drainage,1489050,1300473,1171798,2023-02-15,,stalled,District Rural Development Agency (DRDA),Sama and Sons Builders,REG-630,"35
+Mann Marg, Udaipur, PIN - 489353",IIZKN9654G,24.560422,73.707572,False,False,2023-24
+A-KAM-2023-0070,AS-01,Kamrup Metropolitan,Assam,MP Chandani Sachdev,water,946917,884499,830964,2023-01-18,2023-04-26,completed,District Rural Development Agency (DRDA),"Kale, Comar and Boase Builders",REG-266,"H.No. 623
+Palla Road, Kamrup Metropolitan, PIN - 701353",REWAF1889J,26.197048,91.691495,True,True,2023-24
+G-VAD-2024-0071,GJ-03,Vadodara,Gujarat,MP Gauri Kalla,water,485813,485813,485813,2024-11-24,2025-02-28,completed,Rural Engineering Services (RES),Surya Dev Projects Ltd,REG-MP-883,"38, Zachariah Nagar, Vadodara, PIN - 462001",SDPL4433Q,22.244857,73.174055,True,True,2024-25
+UP-LUC-2023-0072,UP-01,Lucknow,Uttar Pradesh,MP Anya Zacharia,building,4107831,3496711,3178579,2023-05-09,2024-03-26,completed,Rural Engineering Services (RES),Jain Ltd Builders,REG-844,"13
+Mukhopadhyay Marg, Lucknow, PIN - 432448",AKGJV8906X,26.80145,80.933439,True,True,2023-24
+M-NAG-2024-0073,MH-02,Nagpur,Maharashtra,MP Odika Hayer,road,1432115,1409709,1303992,2024-07-03,,ongoing,Public Works Department (PWD),"Rao, Walla and Mall Builders",REG-422,"85/416
+Behl Road, Nagpur, PIN - 332955",ITBVU4095W,21.085314,79.131103,False,False,2024-25
+O-PUR-2023-0074,OD-03,Puri,Odisha,MP Warda Chaudhry,sanitation,437311,416414,387769,2023-09-22,2023-12-24,completed,Municipal Corporation Engineering Cell,Ramaswamy Ltd Builders,REG-406,"H.No. 059
+Gala Street, Puri, PIN - 779975",QLRXM2509S,19.834166,85.75795,True,True,2023-24
+G-SUR-2023-0075,GJ-02,Surat,Gujarat,MP Odika Mand,building,3556037,3446363,3303234,2023-04-21,,ongoing,Water Supply & Sanitation Board,Randhawa-Sharma Builders,REG-995,"H.No. 62
+Comar Nagar, Surat, PIN - 499244",UUNKE1680P,21.091629,72.757819,False,False,2023-24
+UP-GOR-2024-0076,UP-07,Gorakhpur,Uttar Pradesh,MP Nakul Oommen,community_hall,2816563,2690378,2634274,2024-11-02,2025-08-09,completed,Water Supply & Sanitation Board,"Minhas, Nori and Sur Builders",REG-328,"13, Bail Road, Gorakhpur, PIN - 650828",KIKSH0359F,26.717828,83.450268,True,True,2024-25
+R-UDA-2023-0077,RJ-04,Udaipur,Rajasthan,MP Gaurav Bandi,community_hall,2559354,2288592,2219256,2023-05-02,2023-11-25,completed,Water Supply & Sanitation Board,"Dhar, Dalal and Nadkarni Builders",REG-129,"64/349, Buch, Udaipur, PIN - 292176",TWVNE3518S,24.53526,73.688126,True,True,2023-24
+TN-CHE-2024-0078,TN-01,Chennai,Tamil Nadu,MP Manya Contractor,building,4262523,3623604,3492438,2024-05-27,,ongoing,Zila Parishad Engineering Division,Ravel-Brahmbhatt Builders,REG-115,"H.No. 343, Gokhale Ganj, Chennai, PIN - 485644",UPHZZ5718E,13.143969,80.289858,False,False,2024-25
+MP-BHO-2024-0079,MP-01,Bhopal,Madhya Pradesh,MP Warjas Ahluwalia,building,3039620,2875892,2620071,2024-09-05,,stalled,Public Works Department (PWD),Bhatnagar Inc Builders,REG-518,"H.No. 70
+Sachdev Nagar, Bhopal, PIN - 452027",FLYXQ6195V,23.186904,77.482648,False,False,2024-25
+A-SIL-2024-0080,AS-03,Silchar,Assam,MP Manan Yogi,drainage,980028,886879,851931,2024-09-20,2025-02-10,completed,Rural Engineering Services (RES),"Rao, Walla and Mall Builders",REG-422,"H.No. 401, Lalla Circle, Silchar, PIN - 332955",ITBVU4095W,24.902134,92.732298,True,True,2024-25
+O-PUR-2024-0081,OD-03,Puri,Odisha,MP Yashasvi Chada,drainage,988962,988962,988962,2024-12-02,2025-05-11,completed,District Rural Development Agency (DRDA),M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 24
+Sehgal Street, Puri, PIN - 800001",MDUIN9988K,19.884637,85.904894,False,False,2024-25
+TN-COI-2023-0082,TN-02,Coimbatore,Tamil Nadu,MP Ojasvi Dalal,drainage,875062,868171,829834,2023-04-17,,stalled,Municipal Corporation Engineering Cell,Narasimhan-Samra Builders,REG-463,"30/70
+Mangat Marg, Coimbatore, PIN - 284418",KAZSV5912V,11.056177,76.998405,False,False,2023-24
+M-THA-2024-0083,MH-04,Thane,Maharashtra,MP Kabir Lala,solar,445070,418360,415578,2024-09-11,2024-11-19,completed,Zila Parishad Engineering Division,Dutt-Lalla Builders,REG-528,"671, Dar Ganj, Thane, PIN - 671527",TRCIO9558Q,19.296934,72.950045,True,True,2024-25
+TN-COI-2024-0084,TN-02,Coimbatore,Tamil Nadu,MP Yashvi Pradhan,building,5542396,5542396,5542396,2024-09-24,2025-07-19,completed,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"020, Kapadia Nagar, Coimbatore, PIN - 800001",MDUIN9988K,11.032122,76.958617,False,False,2024-25
+M-SOL-2024-0085,MH-06,Solapur,Maharashtra,MP Edhitha Pandit,sanitation,312375,278449,266020,2024-01-25,,stalled,District Rural Development Agency (DRDA),"Wadhwa, Kibe and Bedi Builders",REG-866,"79
+Lanka, Solapur, PIN - 832312",XRGML9453I,17.728048,75.851154,False,False,2024-25
+B-MUZ-2024-0086,BR-03,Muzaffarpur,Bihar,MP Yashoda Dada,sanitation,581651,558466,543028,2024-02-19,,ongoing,Water Supply & Sanitation Board,Brar-Mand Builders,REG-674,"33, Shan Circle, Muzaffarpur, PIN - 453939",DJTGJ6364T,26.119024,85.428544,False,False,2024-25
+TN-TIR-2023-0087,TN-04,Tiruchirappalli,Tamil Nadu,MP Mekhala Atwal,drainage,1732730,1585700,1574639,2023-01-25,2022-12-18,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"H.No. 40, Aggarwal Circle, Tiruchirappalli, PIN - 225001",ABCDE1234F,10.830129,78.760617,True,True,2023-24
+R-JOD-2023-0088,RJ-02,Jodhpur,Rajasthan,MP Udarsh Dixit,solar,518112,492747,492617,2023-06-17,,ongoing,Zila Parishad Engineering Division,Ghosh-Sarraf Builders,REG-412,"H.No. 142
+Joshi Nagar, Jodhpur, PIN - 783962",AUTAX6602Z,26.239657,72.979834,False,False,2023-24
+TN-MAD-2024-0089,TN-03,Madurai,Tamil Nadu,MP Ekani Dave,drainage,1194074,1038314,948486,2024-02-13,,stalled,Public Works Department (PWD),Devan PLC Builders,REG-460,"H.No. 19
+Virk Circle, Madurai, PIN - 218633",ORKWY4902J,9.923258,78.14416,False,False,2024-25
+MP-GWA-2023-0090,MP-04,Gwalior,Madhya Pradesh,MP Ekbal Salvi,water,898529,789423,737678,2023-02-22,2023-05-28,completed,Rural Engineering Services (RES),"Karpe, Joshi and Krish Builders",REG-645,"H.No. 88, Chad Circle, Gwalior, PIN - 623641",PNIPE9723Q,26.165381,78.158755,True,True,2023-24
+M-NAG-2023-0091,MH-02,Nagpur,Maharashtra,MP Vritti Lala,sanitation,770000,770000,754600,2023-02-24,2023-07-02,completed,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 410, Divan Path, Nagpur, PIN - 800001",MDUIN9988K,21.120723,79.136885,True,True,2023-24
+O-PUR-2023-0092,OD-03,Puri,Odisha,MP Gaurang Radhakrishnan,solar,583095,583095,583095,2023-04-18,2023-06-24,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 034, Chhabra Zila, Puri, PIN - 800001",MDUIN9988K,19.793757,85.896166,False,False,2023-24
+UP-KAN-2023-0093,UP-04,Kanpur Nagar,Uttar Pradesh,MP Maanas Bhalla,water,1021684,1013282,918702,2023-12-20,2024-04-13,completed,Water Supply & Sanitation Board,Chauhan LLC Builders,REG-407,"69/45
+Barman Chowk, Kanpur Nagar, PIN - 504747",QLMZY6734E,26.508185,80.254953,True,True,2023-24
+WB-DAR-2023-0094,WB-03,Darjeeling,West Bengal,MP Luke Kashyap,sanitation,449547,444580,401077,2023-03-07,2023-04-06,completed,Water Supply & Sanitation Board,Kale Inc Builders,REG-971,"61/21, Talwar Circle, Darjeeling, PIN - 705048",FPEHR1799M,27.009788,88.264689,True,True,2023-24
+WB-MUR-2023-0095,WB-04,Murshidabad,West Bengal,MP Samarth Mandal,water,1440000,1440000,1411200,2023-11-09,,stalled,Rural Engineering Services (RES),Royal Highway Builders,REG-RJ-551,"46/644, Puri, Murshidabad, PIN - 302001",RYHB8822P,24.131993,88.254886,False,False,2023-24
+TN-CHE-2023-0096,TN-01,Chennai,Tamil Nadu,MP Gauri Kuruvilla,community_hall,2220240,1991238,1912657,2023-07-08,,ongoing,Municipal Corporation Engineering Cell,Minhas-Mangat Builders,REG-776,"H.No. 44
+Kapur, Chennai, PIN - 405198",EXECF1677I,13.023784,80.295096,False,False,2023-24
+TN-CHE-2024-0097,TN-01,Chennai,Tamil Nadu,MP Daksha Kadakia,building,2770717,2770717,2770717,2024-03-21,2025-03-17,completed,Water Supply & Sanitation Board,Apex Civil Enterprises,REG-MH-109,"465, Vala Circle, Chennai, PIN - 411001",APXCE7711Z,13.053516,80.331442,False,False,2024-25
+MP-JAB-2024-0098,MP-03,Jabalpur,Madhya Pradesh,MP Gauri Dhar,drainage,942999,933557,865761,2024-08-24,2025-03-20,completed,Municipal Corporation Engineering Cell,"Pillay, Sani and Kar Builders",REG-669,"87
+Toor Circle, Jabalpur, PIN - 120644",JAWEF7387I,23.122547,79.910592,True,True,2024-25
+UP-LUC-2023-0099,UP-01,Lucknow,Uttar Pradesh,MP Urmi Bail,water,834610,785123,762512,2023-12-25,2024-03-18,completed,Public Works Department (PWD),Ravel-Brahmbhatt Builders,REG-115,"H.No. 20, Jaggi Path, Lucknow, PIN - 485644",UPHZZ5718E,26.903041,80.944831,True,True,2023-24
+MP-JAB-2023-0100,MP-03,Jabalpur,Madhya Pradesh,MP Janya Kibe,building,5284921,4840420,4655060,2023-04-03,2024-03-01,completed,District Rural Development Agency (DRDA),Chopra-Chandra Builders,REG-820,"71, Loke Chowk, Jabalpur, PIN - 209807",JCRQB6774C,23.243514,79.974809,True,True,2023-24
+TN-TIR-2023-0101,TN-04,Tiruchirappalli,Tamil Nadu,MP Jagdish Joshi,solar,684122,585856,585612,2023-09-04,,stalled,Municipal Corporation Engineering Cell,Sarna-Naidu Builders,REG-175,"19
+Mandal Nagar, Tiruchirappalli, PIN - 468411",UPTFL7002D,10.773798,78.742327,False,False,2023-24
+R-JAI-2024-0102,RJ-01,Jaipur,Rajasthan,MP Mugdha Chander,sanitation,514517,441549,420220,2024-08-06,2024-09-05,completed,Water Supply & Sanitation Board,Venkatesh-Kale Builders,REG-553,"457, Basak Zila, Jaipur, PIN - 337797",DNAQL7614V,26.965183,75.779572,True,True,2024-25
+MP-IND-2024-0103,MP-02,Indore,Madhya Pradesh,MP Harsh Chandra,drainage,1561427,1494121,1374879,2024-08-01,,ongoing,Water Supply & Sanitation Board,Comar LLC Builders,REG-879,"H.No. 428, Shankar Chowk, Indore, PIN - 507542",PRCLW1234K,22.679613,75.888375,False,False,2024-25
+R-BIK-2024-0104,RJ-05,Bikaner,Rajasthan,MP Yashawini Doshi,road,1414541,1236287,1180696,2024-12-26,2025-08-03,completed,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"H.No. 66, Chaudhry Circle, Bikaner, PIN - 225001",ABCDE1234F,28.08886,73.322379,True,True,2024-25
+R-JAI-2024-0105,RJ-01,Jaipur,Rajasthan,MP Balendra Sama,water,1187915,1180864,1063194,2024-05-21,2024-10-15,completed,Municipal Corporation Engineering Cell,"Rao, Walla and Mall Builders",REG-422,"696, Narang Nagar, Jaipur, PIN - 332955",ITBVU4095W,26.905783,75.844166,True,True,2024-25
+WB-KOL-2024-0106,WB-01,Kolkata,West Bengal,MP Watika Lala,drainage,1067771,995270,957426,2024-02-20,2024-01-10,completed,Water Supply & Sanitation Board,Surya Dev Projects Ltd,REG-MP-883,"07/86, Narayanan Marg, Kolkata, PIN - 462001",SDPL4433Q,22.500427,88.307621,False,False,2024-25
+R-JAI-2023-0107,RJ-01,Jaipur,Rajasthan,MP Avi Baria,water,862462,820040,788147,2023-01-04,2022-12-11,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"H.No. 44
+Menon Marg, Jaipur, PIN - 411001",APXCE7711Z,26.958369,75.735687,False,False,2023-24
+R-BIK-2023-0108,RJ-05,Bikaner,Rajasthan,MP Aarna Buch,drainage,2160000,2160000,2116800,2023-07-27,2023-11-30,completed,Water Supply & Sanitation Board,Surya Dev Projects Ltd,REG-MP-883,"H.No. 950
+Korpal Road, Bikaner, PIN - 462001",SDPL4433Q,28.027228,73.315843,True,True,2023-24
+O-CUT-2023-0109,OD-02,Cuttack,Odisha,MP Nimrat Raj,community_hall,1204090,1201611,1115958,2023-08-24,,stalled,Municipal Corporation Engineering Cell,"Kothari, Dani and Ganesh Builders",REG-838,"783
+Dhaliwal, Cuttack, PIN - 396741",HYZUS6445Z,20.424046,85.894823,False,False,2023-24
+WB-DAR-2023-0110,WB-03,Darjeeling,West Bengal,MP Finn Jayaraman,sanitation,200000,200000,200000,2023-10-08,2023-11-15,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"H.No. 561
+Purohit Nagar, Darjeeling, PIN - 411001",APXCE7711Z,27.08893,88.346138,False,False,2023-24
+TN-MAD-2023-0111,TN-03,Madurai,Tamil Nadu,MP Harsh Ramesh,sanitation,527539,510936,475567,2023-01-21,,stalled,Water Supply & Sanitation Board,Dutt-Lalla Builders,REG-528,"H.No. 678, Hans Road, Madurai, PIN - 671527",TRCIO9558Q,9.897028,78.040781,False,False,2023-24
+M-AUR-2024-0112,MH-05,Aurangabad,Maharashtra,MP Unni Ravel,water,1440000,1440000,1411200,2024-11-16,,ongoing,Rural Engineering Services (RES),Surya Dev Projects Ltd,REG-MP-883,"44/232, Magar Chowk, Aurangabad, PIN - 462001",SDPL4433Q,19.939549,75.337295,False,False,2024-25
+R-JAI-2024-0113,RJ-01,Jaipur,Rajasthan,MP Girish Agarwal,solar,623101,560640,555941,2024-09-18,2025-01-25,completed,District Rural Development Agency (DRDA),"Tata, Chhabra and Hegde Builders",REG-836,"078
+Sarkar Marg, Jaipur, PIN - 813204",LZDXE0458V,26.987538,75.752174,True,True,2024-25
+M-THA-2023-0114,MH-04,Thane,Maharashtra,MP Chasmum Divan,solar,488311,488311,488311,2023-05-23,2023-09-19,completed,Public Works Department (PWD),Shree Ram Construction,REG-UP-001,"H.No. 18, Pant Marg, Thane, PIN - 225001",ABCDE1234F,19.210605,73.050216,True,True,2023-24
+MP-UJJ-2023-0115,MP-05,Ujjain,Madhya Pradesh,MP Riya Karnik,solar,712672,657454,649162,2023-08-17,2023-11-30,completed,Municipal Corporation Engineering Cell,"Deshmukh, Sem and Sem Builders",REG-906,"H.No. 163
+Chad Ganj, Ujjain, PIN - 629447",GTWAX4890M,23.119427,75.847988,True,True,2023-24
+TN-CHE-2023-0116,TN-01,Chennai,Tamil Nadu,MP Ekta Mani,road,1004193,1004193,1004193,2023-05-02,2023-10-13,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"10
+Handa Road, Chennai, PIN - 411001",APXCE7711Z,13.085992,80.296137,False,False,2023-24
+K-MAN-2024-0117,KA-04,Mangaluru,Karnataka,MP Timothy Mani,building,4460309,4308293,4166603,2024-04-07,2025-01-23,completed,Municipal Corporation Engineering Cell,"Dayal, Dara and Lal Builders",REG-519,"43
+Chand Road, Mangaluru, PIN - 796587",ZDZIC8090E,12.859299,74.794314,True,True,2024-25
+O-KHO-2024-0118,OD-01,Khordha,Odisha,MP Nimrat Kara,sanitation,526024,526024,526024,2024-10-08,2024-12-19,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"877, Grewal Path, Khordha, PIN - 225001",ABCDE1234F,20.105839,85.682327,False,False,2024-25
+UP-GOR-2024-0119,UP-07,Gorakhpur,Uttar Pradesh,MP Wyatt Golla,drainage,971636,947759,919266,2024-03-23,2024-02-18,completed,Water Supply & Sanitation Board,Surya Dev Projects Ltd,REG-MP-883,"H.No. 83
+Mishra Path, Gorakhpur, PIN - 462001",SDPL4433Q,26.730591,83.423991,False,False,2024-25
+M-PUN-2024-0120,MH-01,Pune,Maharashtra,MP Bhanumati Kamdar,road,2034305,1963051,1859116,2024-02-15,2024-07-28,completed,Zila Parishad Engineering Division,Ahuja Group Builders,REG-693,"05, Barman Circle, Pune, PIN - 801998",WHUKY5822S,18.578175,73.875411,True,True,2024-25
+WB-KOL-2023-0121,WB-01,Kolkata,West Bengal,MP Imaran Tella,drainage,1423006,1390084,1290311,2023-02-16,2023-08-10,completed,Water Supply & Sanitation Board,Ghosh-Sarraf Builders,REG-412,"92/88
+Deep Zila, Kolkata, PIN - 783962",AUTAX6602Z,22.512983,88.300369,True,True,2023-24
+MP-IND-2024-0122,MP-02,Indore,Madhya Pradesh,MP Rushil Dave,solar,688211,634775,575490,2024-04-20,2024-07-19,completed,Zila Parishad Engineering Division,Khalsa and Sons Builders,REG-412,"H.No. 44, Kar Road, Indore, PIN - 232629",JLERU9563H,22.76509,75.847357,True,True,2024-25
+TN-TIR-2024-0123,TN-04,Tiruchirappalli,Tamil Nadu,MP William Nair,sanitation,399634,345542,326371,2024-02-19,2024-03-28,completed,Municipal Corporation Engineering Cell,Narasimhan Inc Builders,REG-935,"29
+Desai Nagar, Tiruchirappalli, PIN - 792661",QLDAK8384N,10.721637,78.642099,True,True,2024-25
+A-DIB-2023-0124,AS-02,Dibrugarh,Assam,MP Lila Prabhakar,building,4293869,3900968,3736320,2023-03-22,2024-02-06,completed,Municipal Corporation Engineering Cell,"Comar, Brahmbhatt and Tata Builders",REG-150,"92, Kadakia Nagar, Dibrugarh, PIN - 816707",KIJSU5001T,27.501843,94.882656,True,True,2023-24
+R-UDA-2023-0125,RJ-04,Udaipur,Rajasthan,MP Varsha More,road,1618325,1618325,1618325,2023-10-17,2024-04-01,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"69
+Thakur Chowk, Udaipur, PIN - 411001",APXCE7711Z,24.505535,73.722105,False,False,2023-24
+UP-LUC-2024-0126,UP-01,Lucknow,Uttar Pradesh,MP Veer Babu,building,3931629,3567632,3346997,2024-12-19,,stalled,Public Works Department (PWD),Karan-Mody Builders,REG-982,"79/22
+Shankar Zila, Lucknow, PIN - 154357",DMLDN2563M,26.872698,80.942179,False,False,2024-25
+G-SUR-2023-0127,GJ-02,Surat,Gujarat,MP Aditya Dugar,building,3141761,3087513,2981897,2023-01-03,2023-10-20,completed,Rural Engineering Services (RES),Sarna-Bhakta Builders,REG-489,"H.No. 24, Dara Road, Surat, PIN - 610149",IMBVK7908S,21.112155,72.880051,True,True,2023-24
+MP-GWA-2024-0128,MP-04,Gwalior,Madhya Pradesh,MP Yashawini Dugal,solar,755919,643373,611085,2024-07-12,2024-10-14,completed,Municipal Corporation Engineering Cell,Narayanan Group Builders,REG-192,"H.No. 24, Rastogi Path, Gwalior, PIN - 275271",CCLID3744D,26.18138,78.25105,True,True,2024-25
+WB-HOW-2023-0129,WB-02,Howrah,West Bengal,MP David Chandra,community_hall,791802,789862,772395,2023-03-24,,ongoing,District Rural Development Agency (DRDA),"Palan, Tak and Gade Builders",REG-698,"34/87
+Purohit, Howrah, PIN - 354068",KEIFX7095Y,22.528318,88.325986,False,False,2023-24
+TN-COI-2024-0130,TN-02,Coimbatore,Tamil Nadu,MP Ganga Varma,sanitation,770000,770000,754600,2024-10-02,,ongoing,Zila Parishad Engineering Division,Surya Dev Projects Ltd,REG-MP-883,"30
+Narula Path, Coimbatore, PIN - 462001",SDPL4433Q,11.05421,76.943163,False,False,2024-25
+O-PUR-2024-0131,OD-03,Puri,Odisha,MP Baljiwan Batta,water,820430,820430,820430,2024-01-21,2024-05-01,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"H.No. 975, Kashyap Nagar, Puri, PIN - 411001",APXCE7711Z,19.779391,85.764402,False,False,2024-25
+B-MUZ-2024-0132,BR-03,Muzaffarpur,Bihar,MP Hitesh Patel,building,486382,486382,486382,2024-05-28,2025-03-21,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 10
+Gupta Ganj, Muzaffarpur, PIN - 800001",MDUIN9988K,26.100063,85.312764,True,True,2024-25
+K-MYS-2023-0133,KA-02,Mysuru,Karnataka,MP Zashil Sura,sanitation,443088,392439,370469,2023-08-25,2023-12-14,completed,District Rural Development Agency (DRDA),Dani Ltd Builders,REG-396,"H.No. 286, Patil Street, Mysuru, PIN - 454061",MRBKP0321I,12.308241,76.694093,True,True,2023-24
+R-JAI-2023-0134,RJ-01,Jaipur,Rajasthan,MP Laksh Gera,drainage,872796,760879,751008,2023-07-22,2023-12-09,completed,Water Supply & Sanitation Board,"Sampath, Aurora and Nagy Builders",REG-889,"653, Halder Street, Jaipur, PIN - 714788",ERSPV5800U,26.980756,75.779111,True,True,2023-24
+R-UDA-2024-0135,RJ-04,Udaipur,Rajasthan,MP Ryan Kapur,sanitation,379813,338057,307573,2024-10-21,,stalled,Public Works Department (PWD),Prabhakar-Munshi Builders,REG-863,"H.No. 55, Mann Path, Udaipur, PIN - 472659",GVKXI7197Q,24.579177,73.740547,False,False,2024-25
+M-THA-2023-0136,MH-04,Thane,Maharashtra,MP Maya Dewan,water,772970,772970,772970,2023-11-01,2024-03-02,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"71
+Ramesh Nagar, Thane, PIN - 462001",SDPL4433Q,19.173407,72.943428,False,False,2023-24
+UP-GOR-2023-0137,UP-07,Gorakhpur,Uttar Pradesh,MP Pahal Bhagat,road,2197146,1896044,1821090,2023-10-21,,ongoing,District Rural Development Agency (DRDA),Dass and Sons Builders,REG-858,"H.No. 296, Sastry Path, Gorakhpur, PIN - 617993",DZLVH4612N,26.809112,83.322763,False,False,2023-24
+B-BHA-2024-0138,BR-04,Bhagalpur,Bihar,MP Advika Kata,sanitation,362294,316751,287419,2024-12-22,2025-02-23,completed,Zila Parishad Engineering Division,Chana-Kunda Builders,REG-914,"29/78
+Venkataraman Street, Bhagalpur, PIN - 526176",RUXCC1158I,25.224674,87.063553,True,True,2024-25
+K-DHA-2023-0139,KA-03,Dharwad,Karnataka,MP Raksha Nagi,drainage,1435666,1435666,1435666,2023-11-16,2024-05-13,completed,District Rural Development Agency (DRDA),National Infra Conclave,REG-DL-990,"383
+Chander Nagar, Dharwad, PIN - 110001",NATIN3322R,15.493364,74.944326,False,False,2023-24
+B-MUZ-2024-0140,BR-03,Muzaffarpur,Bihar,MP Ikbal Sabharwal,sanitation,565088,565088,565088,2024-01-16,2024-04-10,completed,Municipal Corporation Engineering Cell,National Infra Conclave,REG-DL-990,"H.No. 07
+Chana Street, Muzaffarpur, PIN - 110001",NATIN3322R,26.152909,85.429439,False,False,2024-25
+T-WAR-2024-0141,TS-02,Warangal,Telangana,MP Sai Chaudhari,drainage,765861,765861,765861,2024-07-13,2025-01-08,completed,Rural Engineering Services (RES),Surya Dev Projects Ltd,REG-MP-883,"46
+Chadha Chowk, Warangal, PIN - 462001",SDPL4433Q,18.041565,79.644976,False,False,2024-25
+R-UDA-2024-0142,RJ-04,Udaipur,Rajasthan,MP Osha More,water,426850,368627,351472,2024-07-02,2024-06-03,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"H.No. 550
+Bhardwaj Road, Udaipur, PIN - 110001",NATIN3322R,24.639989,73.754172,True,True,2024-25
+M-AUR-2024-0143,MH-05,Aurangabad,Maharashtra,MP Madhav Kothari,water,585926,575837,543474,2024-02-21,2024-06-07,completed,Municipal Corporation Engineering Cell,Trivedi Ltd Builders,REG-952,"H.No. 904, Badal Nagar, Aurangabad, PIN - 271450",USIAK2819U,19.801912,75.267358,True,True,2024-25
+A-SIL-2024-0144,AS-03,Silchar,Assam,MP Daksh Agate,sanitation,526867,526867,526867,2024-01-02,2024-02-16,completed,Municipal Corporation Engineering Cell,Surya Dev Projects Ltd,REG-MP-883,"89/723, Goyal Chowk, Silchar, PIN - 462001",SDPL4433Q,24.826639,92.807392,False,False,2024-25
+B-PAT-2023-0145,BR-01,Patna,Bihar,MP Manbir D’Alia,road,2780000,2780000,2724400,2023-12-05,2024-05-27,completed,Zila Parishad Engineering Division,Surya Dev Projects Ltd,REG-MP-883,"058
+Vaidya Path, Patna, PIN - 462001",SDPL4433Q,25.516398,85.158826,True,True,2023-24
+M-NAS-2023-0146,MH-03,Nashik,Maharashtra,MP Deepa Parsa,sanitation,453215,400227,392400,2023-02-04,,ongoing,Water Supply & Sanitation Board,Chahal PLC Builders,REG-888,"H.No. 171
+Pandey Nagar, Nashik, PIN - 436084",AQSBD3458W,20.047343,73.866951,False,False,2023-24
+T-NIZ-2023-0147,TS-03,Nizamabad,Telangana,MP Warhi Gill,building,3848673,3848673,3848673,2023-10-06,2024-07-24,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"131
+Iyengar Zila, Nizamabad, PIN - 225001",ABCDE1234F,18.618901,78.053083,False,False,2023-24
+T-NIZ-2024-0148,TS-03,Nizamabad,Telangana,MP Kavya Kashyap,sanitation,421843,359023,356371,2024-03-01,,stalled,Rural Engineering Services (RES),Bath LLC Builders,REG-454,"H.No. 051, Yohannan Zila, Nizamabad, PIN - 654103",TDNWV5319H,18.659096,78.143286,False,False,2024-25
+M-THA-2023-0149,MH-04,Thane,Maharashtra,MP Alexander Nazareth,solar,397947,397947,397947,2023-10-06,2023-12-26,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"11
+Golla, Thane, PIN - 462001",SDPL4433Q,19.205306,72.987334,False,False,2023-24
+UP-AGR-2024-0150,UP-08,Agra,Uttar Pradesh,MP Abhiram Amble,solar,852514,808949,750415,2024-09-17,2024-12-25,completed,Rural Engineering Services (RES),Sarna-Randhawa Builders,REG-841,"38
+Sahota, Agra, PIN - 728226",HFSIT9617I,27.224158,78.037739,True,True,2024-25
+M-SOL-2024-0151,MH-06,Solapur,Maharashtra,MP Damyanti Samra,drainage,724400,724400,724400,2024-06-20,2024-12-04,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 19
+Hans Path, Solapur, PIN - 800001",MDUIN9988K,17.605187,75.83105,False,False,2024-25
+O-CUT-2024-0152,OD-02,Cuttack,Odisha,MP Dipta Dasgupta,drainage,558578,494067,450101,2024-07-07,2024-12-02,completed,Public Works Department (PWD),Suri and Sons Builders,REG-714,"H.No. 547
+Pingle, Cuttack, PIN - 236935",XJYFP8263V,20.420439,85.868815,True,True,2024-25
+M-NAG-2024-0153,MH-02,Nagpur,Maharashtra,MP Vasatika Das,building,4131777,4131777,4131777,2024-03-13,2024-12-14,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"085, Edwin Zila, Nagpur, PIN - 800001",MDUIN9988K,21.119543,79.013335,False,False,2024-25
+UP-MEE-2024-0154,UP-09,Meerut,Uttar Pradesh,MP Saumya Saraf,sanitation,530736,530736,530736,2024-08-14,2024-10-26,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"H.No. 252, Date Nagar, Meerut, PIN - 462001",SDPL4433Q,28.996999,77.714841,False,False,2024-25
+WB-DAR-2023-0155,WB-03,Darjeeling,West Bengal,MP Yashodhara Kaur,sanitation,380874,365449,355807,2023-10-16,2023-12-27,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"33/79
+Krishnamurthy Road, Darjeeling, PIN - 225001",ABCDE1234F,27.013367,88.279015,True,True,2023-24
+WB-HOW-2023-0156,WB-02,Howrah,West Bengal,MP Yauvani Dube,community_hall,3173591,3029186,2755953,2023-07-17,,ongoing,Water Supply & Sanitation Board,Johal-Batta Builders,REG-551,"20/994
+Lal Chowk, Howrah, PIN - 594106",TUGGZ7916S,22.529095,88.304093,False,False,2023-24
+UP-GOR-2024-0157,UP-07,Gorakhpur,Uttar Pradesh,MP Charvi Dash,road,1877187,1756215,1683096,2024-11-10,,ongoing,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"489, Karpe Circle, Gorakhpur, PIN - 225001",ABCDE1234F,26.804094,83.433072,False,False,2024-25
+K-MAN-2024-0158,KA-04,Mangaluru,Karnataka,MP Yashvi Wason,road,1435222,1435222,1435222,2024-12-11,2025-05-15,completed,Water Supply & Sanitation Board,Apex Civil Enterprises,REG-MH-109,"H.No. 11, Ahluwalia Chowk, Mangaluru, PIN - 411001",APXCE7711Z,12.926137,74.809143,False,False,2024-25
+O-PUR-2024-0159,OD-03,Puri,Odisha,MP Viraj Dixit,road,1800309,1541300,1443648,2024-01-04,,stalled,Public Works Department (PWD),Bhatnagar Inc Builders,REG-518,"H.No. 435, Saini Road, Puri, PIN - 452027",FLYXQ6195V,19.823221,85.874972,False,False,2024-25
+K-BEN-2023-0160,KA-01,Bengaluru Urban,Karnataka,MP Ekani Khosla,sanitation,542161,482579,467147,2023-12-25,2024-02-27,completed,Rural Engineering Services (RES),Sibal-Mukhopadhyay Builders,REG-540,"H.No. 00, Konda Street, Bengaluru Urban, PIN - 243636",OLABW9585E,12.901739,77.569836,True,True,2023-24
+B-DAR-2024-0161,BR-05,Darbhanga,Bihar,MP Elijah Madan,drainage,2160000,2160000,2116800,2024-11-23,,ongoing,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"36/57
+Ganesan Road, Darbhanga, PIN - 800001",MDUIN9988K,26.087027,85.955471,False,False,2024-25
+B-BHA-2023-0162,BR-04,Bhagalpur,Bihar,MP Nathaniel Pau,road,1156962,1092277,1015071,2023-08-05,2023-07-17,completed,Water Supply & Sanitation Board,Surya Dev Projects Ltd,REG-MP-883,"H.No. 55, Vig Circle, Bhagalpur, PIN - 462001",SDPL4433Q,25.238325,86.971421,False,False,2023-24
+G-AHM-2024-0163,GJ-01,Ahmedabad,Gujarat,MP Upadhriti Parikh,water,508223,469050,453376,2024-10-11,,stalled,Public Works Department (PWD),"Dyal, Cheema and Thaman Builders",REG-163,"59/66
+Ganesan Zila, Ahmedabad, PIN - 268471",QKJJE0428S,23.013741,72.540053,False,False,2024-25
+B-DAR-2023-0164,BR-05,Darbhanga,Bihar,MP Sneha Bhandari,sanitation,694323,654603,599668,2023-03-12,,stalled,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"98/974, Nath, Darbhanga, PIN - 225001",ABCDE1234F,26.103365,85.839857,False,False,2023-24
+R-JOD-2023-0165,RJ-02,Jodhpur,Rajasthan,MP Waida Rana,solar,674241,644621,623061,2023-08-09,2023-07-04,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"15/73
+Sura Street, Jodhpur, PIN - 800001",MDUIN9988K,26.218566,73.030679,True,True,2023-24
+WB-KOL-2023-0166,WB-01,Kolkata,West Bengal,MP Aryan Kala,water,731955,693224,644390,2023-01-24,2023-04-19,completed,Water Supply & Sanitation Board,Dhar-Thaker Builders,REG-519,"28/037, Sahota Marg, Kolkata, PIN - 648214",CABWU2222U,22.599302,88.411832,True,True,2023-24
+M-PUN-2023-0167,MH-01,Pune,Maharashtra,MP Rachana Shetty,community_hall,4420000,4420000,4331600,2023-05-01,2023-11-10,completed,Zila Parishad Engineering Division,Royal Highway Builders,REG-RJ-551,"558, Chhabra Ganj, Pune, PIN - 302001",RYHB8822P,18.533749,73.812243,True,True,2023-24
+G-VAD-2023-0168,GJ-03,Vadodara,Gujarat,MP Anirudh Walla,community_hall,4420000,4420000,4331600,2023-09-13,2024-05-18,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"17/831
+Kade Chowk, Vadodara, PIN - 411001",APXCE7711Z,22.250871,73.237809,True,True,2023-24
+R-UDA-2024-0169,RJ-04,Udaipur,Rajasthan,MP Girish Kale,water,1208651,1161790,1093896,2024-09-03,,ongoing,Rural Engineering Services (RES),"Sampath, Aurora and Nagy Builders",REG-889,"H.No. 22, Hora Nagar, Udaipur, PIN - 714788",ERSPV5800U,24.531606,73.74898,False,False,2024-25
+R-JAI-2024-0170,RJ-01,Jaipur,Rajasthan,MP Kavya Mann,drainage,1070985,976116,967761,2024-02-19,,ongoing,Public Works Department (PWD),Tandon-Kulkarni Builders,REG-604,"994
+Yohannan Marg, Jaipur, PIN - 231761",XFBVX3419J,26.92133,75.82094,False,False,2024-25
+R-JAI-2024-0171,RJ-01,Jaipur,Rajasthan,MP Andrew Parikh,sanitation,378832,366968,335923,2024-08-18,2024-10-15,completed,Zila Parishad Engineering Division,Ray-Chanda Builders,REG-114,"36/100
+Dey Nagar, Jaipur, PIN - 384921",DWOJR7970C,26.852268,75.813846,True,True,2024-25
+B-BHA-2023-0172,BR-04,Bhagalpur,Bihar,MP Veer Minhas,drainage,1462104,1338425,1239102,2023-10-24,2023-09-29,completed,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"H.No. 02, Dube, Bhagalpur, PIN - 302001",RYHB8822P,25.222212,87.021473,False,False,2023-24
+G-RAJ-2024-0173,GJ-04,Rajkot,Gujarat,MP Fitan Thakur,building,4325922,4268887,3993963,2024-03-02,2024-12-22,completed,Municipal Corporation Engineering Cell,Som Group Builders,REG-851,"28/023, Ramachandran Ganj, Rajkot, PIN - 472147",KLREK4318K,22.308638,70.872011,True,True,2024-25
+R-JOD-2024-0174,RJ-02,Jodhpur,Rajasthan,MP Meera Banerjee,sanitation,594327,566543,515318,2024-11-26,,stalled,Municipal Corporation Engineering Cell,Vohra and Sons Builders,REG-996,"H.No. 95
+Agate, Jodhpur, PIN - 228326",TZMSL3241G,26.29063,72.946364,False,False,2024-25
+M-SOL-2023-0175,MH-06,Solapur,Maharashtra,MP Tara Kaul,building,6060000,6060000,5938800,2023-04-26,,stalled,Rural Engineering Services (RES),M/s Maa Durga Infrastructure,REG-BR-442,"010
+Sharaf Marg, Solapur, PIN - 800001",MDUIN9988K,17.692262,75.954813,False,False,2023-24
+UP-LUC-2024-0176,UP-01,Lucknow,Uttar Pradesh,MP Jack Hans,drainage,1620293,1593491,1529376,2024-05-23,2024-09-14,completed,District Rural Development Agency (DRDA),Brar-Mand Builders,REG-674,"44/113
+Ghose Ganj, Lucknow, PIN - 453939",DJTGJ6364T,26.880283,80.870802,True,True,2024-25
+M-PUN-2024-0177,MH-01,Pune,Maharashtra,MP Isaac Babu,road,489942,489942,489942,2024-12-25,2025-06-25,completed,Municipal Corporation Engineering Cell,National Infra Conclave,REG-DL-990,"H.No. 044
+Goswami Ganj, Pune, PIN - 110001",NATIN3322R,18.457651,73.903589,True,True,2024-25
+UP-BAR-2023-0178,UP-03,Barabanki,Uttar Pradesh,MP Yashica Shukla,sanitation,656754,576444,539063,2023-02-20,2023-05-08,completed,Municipal Corporation Engineering Cell,Wali-Warrior Builders,REG-344,"463, Khatri Zila, Barabanki, PIN - 709573",MDOIO5431W,26.982538,81.254995,True,True,2023-24
+TN-TIR-2023-0179,TN-04,Tiruchirappalli,Tamil Nadu,MP Aayush Sekhon,road,1524551,1339671,1243463,2023-10-25,,stalled,Public Works Department (PWD),Zacharia-Sehgal Builders,REG-144,"740
+Hans Street, Tiruchirappalli, PIN - 591741",SIEYI0086Z,10.866273,78.64049,False,False,2023-24
+G-VAD-2023-0180,GJ-03,Vadodara,Gujarat,MP Maanas Sawhney,road,490375,490375,490375,2023-06-13,2023-11-07,completed,Rural Engineering Services (RES),Royal Highway Builders,REG-RJ-551,"92/577
+Sule Street, Vadodara, PIN - 302001",RYHB8822P,22.301744,73.184356,True,True,2023-24
+UP-MEE-2024-0181,UP-09,Meerut,Uttar Pradesh,MP Orinder Ravi,drainage,744443,726698,670442,2024-08-20,,ongoing,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"H.No. 246, Mital Chowk, Meerut, PIN - 225001",ABCDE1234F,29.062094,77.694874,False,False,2024-25
+G-VAD-2023-0182,GJ-03,Vadodara,Gujarat,MP Aryan Mannan,drainage,1136037,1136037,1136037,2023-07-15,2023-10-28,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 377
+Chaudhary Street, Vadodara, PIN - 800001",MDUIN9988K,22.345829,73.243988,False,False,2023-24
+R-KOT-2024-0183,RJ-03,Kota,Rajasthan,MP Ronith Rai,building,2406217,2145810,2084331,2024-02-08,,stalled,Rural Engineering Services (RES),"Toor, Ravel and Sahota Builders",REG-496,"H.No. 229, Kade Marg, Kota, PIN - 698956",LBDJI2901Q,25.254808,75.912957,False,False,2024-25
+M-NAG-2024-0184,MH-02,Nagpur,Maharashtra,MP Lohit Goyal,sanitation,567277,535654,489298,2024-02-04,2024-04-03,completed,District Rural Development Agency (DRDA),Sibal-Mukhopadhyay Builders,REG-540,"15/83, Viswanathan Path, Nagpur, PIN - 243636",OLABW9585E,21.19865,79.087902,True,True,2024-25
+UP-AGR-2023-0185,UP-08,Agra,Uttar Pradesh,MP Charvi Subramanian,sanitation,435446,400568,372270,2023-11-25,2023-10-24,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"53/44, Chaudhry Path, Agra, PIN - 225001",ABCDE1234F,27.177467,78.01489,False,False,2023-24
+MP-BHO-2024-0186,MP-01,Bhopal,Madhya Pradesh,MP Yug Balan,drainage,1219448,1138354,1122458,2024-07-15,2024-12-04,completed,Water Supply & Sanitation Board,Khare Ltd Builders,REG-761,"73, Reddy Circle, Bhopal, PIN - 151337",PJQQR7686U,23.258537,77.354118,True,True,2024-25
+TN-COI-2024-0187,TN-02,Coimbatore,Tamil Nadu,MP Radhika Kara,solar,458656,458656,458656,2024-08-18,2024-12-07,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"91/56
+Krishnamurthy Road, Coimbatore, PIN - 225001",ABCDE1234F,11.059435,76.92131,False,False,2024-25
+M-PUN-2024-0188,MH-01,Pune,Maharashtra,MP Simon Bal,sanitation,426676,426676,426676,2024-06-26,2024-08-24,completed,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"094, Chandran Path, Pune, PIN - 800001",MDUIN9988K,18.495623,73.833879,False,False,2024-25
+B-GAY-2024-0189,BR-02,Gaya,Bihar,MP Ubika Kapur,building,3342823,2994289,2795945,2024-10-03,2025-08-08,completed,Rural Engineering Services (RES),Sarna-Naidu Builders,REG-175,"H.No. 143, Dar Zila, Gaya, PIN - 468411",UPTFL7002D,24.763579,84.993946,True,True,2024-25
+R-JOD-2024-0190,RJ-02,Jodhpur,Rajasthan,MP Dakshesh Pall,drainage,1400107,1335183,1229157,2024-06-19,,ongoing,Public Works Department (PWD),Sachar-Mutti Builders,REG-625,"H.No. 701, Bhatti Ganj, Jodhpur, PIN - 161328",UHSPF8179M,26.288733,73.051082,False,False,2024-25
+T-NIZ-2023-0191,TS-03,Nizamabad,Telangana,MP Divya Bail,road,1893169,1723359,1589951,2023-05-09,2024-02-08,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"832, Kota Ganj, Nizamabad, PIN - 225001",ABCDE1234F,18.607657,78.067994,True,True,2023-24
+A-DIB-2024-0192,AS-02,Dibrugarh,Assam,MP Henry Konda,water,766808,698059,671879,2024-07-22,,ongoing,Water Supply & Sanitation Board,"Dyal, Cheema and Thaman Builders",REG-163,"485
+Raval Ganj, Dibrugarh, PIN - 268471",QKJJE0428S,27.421696,94.834977,False,False,2024-25
+WB-KOL-2024-0193,WB-01,Kolkata,West Bengal,MP Shravya Dave,water,626214,566498,518217,2024-10-24,2025-01-26,completed,District Rural Development Agency (DRDA),Deep-Shan Builders,REG-299,"648
+Virk Marg, Kolkata, PIN - 490133",HACDG3400R,22.62766,88.349542,True,True,2024-25
+G-VAD-2023-0194,GJ-03,Vadodara,Gujarat,MP Janaki Prabhu,solar,497937,497937,497937,2023-07-08,,ongoing,Water Supply & Sanitation Board,Apex Civil Enterprises,REG-MH-109,"H.No. 702, Jani Nagar, Vadodara, PIN - 411001",APXCE7711Z,22.316772,73.170981,False,False,2023-24
+G-SUR-2023-0195,GJ-02,Surat,Gujarat,MP Kashvi Kala,solar,662985,641328,580743,2023-11-28,2024-04-12,completed,Rural Engineering Services (RES),Ganesan Inc Builders,REG-277,"71/79
+Basu Street, Surat, PIN - 591992",XWTBD2365K,21.186456,72.889847,True,True,2023-24
+A-SIL-2023-0196,AS-03,Silchar,Assam,MP Aachal Joshi,building,1649080,1649080,1649080,2023-02-19,2023-12-09,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"H.No. 248
+Das Circle, Silchar, PIN - 411001",APXCE7711Z,24.832732,92.71334,False,False,2023-24
+R-KOT-2024-0197,RJ-03,Kota,Rajasthan,MP Charan Palan,sanitation,554441,483273,443410,2024-12-24,2025-02-24,completed,District Rural Development Agency (DRDA),Gaba-Mander Builders,REG-456,"54, Jhaveri Street, Kota, PIN - 201208",TLFLT6280I,25.19914,75.922864,True,True,2024-25
+G-VAD-2024-0198,GJ-03,Vadodara,Gujarat,MP Megha Taneja,building,3618780,3243243,3128236,2024-03-12,,stalled,District Rural Development Agency (DRDA),"Madan, Chowdhury and Dixit Builders",REG-553,"H.No. 37
+Dyal, Vadodara, PIN - 687057",KIWGE4422C,22.361836,73.207156,False,False,2024-25
+G-RAJ-2023-0199,GJ-04,Rajkot,Gujarat,MP Gaurika Varghese,water,1015379,864270,860877,2023-09-28,2024-01-28,completed,Public Works Department (PWD),Chakraborty Group Builders,REG-482,"H.No. 94, Prasad Path, Rajkot, PIN - 465556",OBNTH9619M,22.23834,70.853833,True,True,2023-24
+A-KAM-2024-0200,AS-01,Kamrup Metropolitan,Assam,MP Naveen Shukla,sanitation,311484,308703,292375,2024-01-09,,ongoing,District Rural Development Agency (DRDA),"Borde, Nayak and Buch Builders",REG-510,"42/94
+Luthra Zila, Kamrup Metropolitan, PIN - 811765",TUOTE8885C,26.179282,91.796482,False,False,2024-25
+A-DIB-2024-0201,AS-02,Dibrugarh,Assam,MP Laksh Muni,solar,608391,575683,554391,2024-08-23,2024-11-30,completed,Zila Parishad Engineering Division,"Shukla, Peri and Narain Builders",REG-925,"83, Sengupta Circle, Dibrugarh, PIN - 277414",GPOSS4428Y,27.456906,94.932527,True,True,2024-25
+G-AHM-2023-0202,GJ-01,Ahmedabad,Gujarat,MP Jacob Sangha,sanitation,576487,529055,522362,2023-10-22,2023-11-21,completed,Zila Parishad Engineering Division,"Magar, Prasad and Pandit Builders",REG-871,"H.No. 11, Gara Circle, Ahmedabad, PIN - 788324",AFUXI3384B,22.970257,72.586283,True,True,2023-24
+A-SIL-2023-0203,AS-03,Silchar,Assam,MP Gautami Ravel,solar,499430,471458,467066,2023-01-01,,ongoing,District Rural Development Agency (DRDA),Devan PLC Builders,REG-460,"18
+Bava Circle, Silchar, PIN - 218633",ORKWY4902J,24.795185,92.835193,False,False,2023-24
+TN-TIR-2023-0204,TN-04,Tiruchirappalli,Tamil Nadu,MP Faraj Karan,road,1856210,1704105,1648484,2023-12-17,2024-04-13,completed,Zila Parishad Engineering Division,Misra PLC Builders,REG-729,"04
+Srinivas Road, Tiruchirappalli, PIN - 732937",PJBMA3269C,10.82467,78.655187,True,True,2023-24
+A-DIB-2023-0205,AS-02,Dibrugarh,Assam,MP Matthew Bassi,water,1440000,1440000,1411200,2023-07-06,,stalled,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"85/44
+Oak Marg, Dibrugarh, PIN - 302001",RYHB8822P,27.537973,94.891142,False,False,2023-24
+M-PUN-2024-0206,MH-01,Pune,Maharashtra,MP Hema Tara,sanitation,304201,290897,283220,2024-12-13,2025-01-23,completed,Zila Parishad Engineering Division,"Sibal, Kaur and Bhalla Builders",REG-125,"H.No. 226, Kar Circle, Pune, PIN - 158458",RHRQC9238E,18.455645,73.7861,True,True,2024-25
+A-KAM-2023-0207,AS-01,Kamrup Metropolitan,Assam,MP Forum Devan,solar,595808,593799,574278,2023-01-09,2023-03-10,completed,Public Works Department (PWD),"Atwal, Tandon and Parikh Builders",REG-770,"417, Warrior Circle, Kamrup Metropolitan, PIN - 619172",TYYOC2534M,26.07108,91.6849,True,True,2023-24
+TN-CHE-2023-0208,TN-01,Chennai,Tamil Nadu,MP Maanas Rout,drainage,1966598,1818870,1814026,2023-05-04,2023-08-29,completed,Zila Parishad Engineering Division,Chauhan LLC Builders,REG-407,"H.No. 96
+Kumer Chowk, Chennai, PIN - 504747",QLMZY6734E,13.150898,80.235968,True,True,2023-24
+R-JOD-2024-0209,RJ-02,Jodhpur,Rajasthan,MP Nathaniel Virk,community_hall,1799459,1744994,1579781,2024-03-18,2024-12-09,completed,Zila Parishad Engineering Division,Sibal-Mukhopadhyay Builders,REG-540,"25/48, Khurana, Jodhpur, PIN - 243636",OLABW9585E,26.195678,72.950038,True,True,2024-25
+MP-UJJ-2024-0210,MP-05,Ujjain,Madhya Pradesh,MP Oliver Kari,water,1007169,878460,821325,2024-08-16,2025-01-19,completed,Municipal Corporation Engineering Cell,Bath LLC Builders,REG-454,"H.No. 609, Salvi Chowk, Ujjain, PIN - 654103",TDNWV5319H,23.125405,75.735427,True,True,2024-25
+UP-BAR-2023-0211,UP-03,Barabanki,Uttar Pradesh,MP Rachit Sarraf,solar,776079,670645,625621,2023-07-03,2023-10-01,completed,District Rural Development Agency (DRDA),Saraf PLC Builders,REG-260,"H.No. 793, Dhar Road, Barabanki, PIN - 112805",QPTYF2611C,26.910267,81.198754,True,True,2023-24
+WB-KOL-2024-0212,WB-01,Kolkata,West Bengal,MP Frederick Swamy,community_hall,2557882,2425961,2414048,2024-10-22,2025-09-06,completed,Water Supply & Sanitation Board,Sridhar-Srinivas Builders,REG-506,"20/497, Parmar Street, Kolkata, PIN - 776275",FVVGL9728Q,22.513291,88.422025,True,True,2024-25
+UP-GOR-2024-0213,UP-07,Gorakhpur,Uttar Pradesh,MP Sarthak Rau,drainage,1069089,923028,909399,2024-03-08,2024-10-02,completed,Water Supply & Sanitation Board,"Dhingra, Mittal and Batta Builders",REG-656,"32/18, Srinivasan Street, Gorakhpur, PIN - 700882",XXFXR5296I,26.805319,83.33879,True,True,2024-25
+G-VAD-2023-0214,GJ-03,Vadodara,Gujarat,MP Waida Jani,solar,681521,599725,566466,2023-06-22,,ongoing,District Rural Development Agency (DRDA),Chada-Krishna Builders,REG-797,"38, Bhalla Path, Vadodara, PIN - 784396",QHINF8536U,22.270157,73.197255,False,False,2023-24
+UP-VAR-2024-0215,UP-05,Varanasi,Uttar Pradesh,MP Ayushman Anne,solar,825398,720787,684410,2024-08-22,,stalled,Rural Engineering Services (RES),Bhargava-Rama Builders,REG-524,"20/05, Setty Nagar, Varanasi, PIN - 537398",CHHIO1267C,25.284112,82.963877,False,False,2024-25
+MP-GWA-2023-0216,MP-04,Gwalior,Madhya Pradesh,MP Praneel Arora,water,680802,680802,680802,2023-09-03,2024-02-01,completed,Municipal Corporation Engineering Cell,Surya Dev Projects Ltd,REG-MP-883,"94/38, Deshmukh Chowk, Gwalior, PIN - 462001",SDPL4433Q,26.268352,78.159673,False,False,2023-24
+UP-LUC-2024-0217,UP-01,Lucknow,Uttar Pradesh,MP Christopher Dasgupta,road,1863951,1607645,1587831,2024-03-26,2024-10-04,completed,Water Supply & Sanitation Board,Ganesan Inc Builders,REG-277,"H.No. 50, Rama Zila, Lucknow, PIN - 591992",XWTBD2365K,26.860653,80.939,True,True,2024-25
+M-SOL-2023-0218,MH-06,Solapur,Maharashtra,MP Hema Venkatesh,building,4694769,4296041,3874133,2023-12-20,,ongoing,Rural Engineering Services (RES),Deshpande Group Builders,REG-152,"01
+Goyal Chowk, Solapur, PIN - 374742",OSDWM8544F,17.582029,75.931328,False,False,2023-24
+K-DHA-2024-0219,KA-03,Dharwad,Karnataka,MP Max Bahl,sanitation,415583,403404,366598,2024-12-22,2025-04-04,completed,Water Supply & Sanitation Board,Hayer-Bedi Builders,REG-508,"H.No. 01
+Khare Street, Dharwad, PIN - 489580",RKXLG2525S,15.409428,75.058355,True,True,2024-25
+MP-GWA-2023-0220,MP-04,Gwalior,Madhya Pradesh,MP Yash Bhatnagar,sanitation,393801,359651,327874,2023-02-10,2023-04-13,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"29
+Lal Chowk, Gwalior, PIN - 225001",ABCDE1234F,26.292519,78.178238,True,True,2023-24
+UP-BAR-2024-0221,UP-03,Barabanki,Uttar Pradesh,MP Rohan Khalsa,road,1514196,1453116,1452974,2024-07-28,2024-12-15,completed,Water Supply & Sanitation Board,"Minhas, Nori and Sur Builders",REG-328,"62, Bajaj Road, Barabanki, PIN - 650828",KIKSH0359F,26.911149,81.186437,True,True,2024-25
+TN-CHE-2024-0222,TN-01,Chennai,Tamil Nadu,MP Widisha Sekhon,road,2780000,2780000,2724400,2024-10-11,2025-03-17,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"H.No. 388
+Toor Chowk, Chennai, PIN - 411001",APXCE7711Z,13.102331,80.294089,True,True,2024-25
+O-CUT-2024-0223,OD-02,Cuttack,Odisha,MP Lajita Das,building,4059949,4004573,3739931,2024-06-15,,stalled,Water Supply & Sanitation Board,Basak Inc Builders,REG-865,"03
+Dugal Chowk, Cuttack, PIN - 520780",PSHYA8826G,20.403485,85.849743,False,False,2024-25
+WB-HOW-2023-0224,WB-02,Howrah,West Bengal,MP Radha Ramesh,sanitation,612885,582276,531565,2023-10-07,2023-11-25,completed,Rural Engineering Services (RES),Chahal LLC Builders,REG-337,"10/63, Khosla Path, Howrah, PIN - 593550",NOUEC8629E,22.61272,88.199745,True,True,2023-24
+R-UDA-2024-0225,RJ-04,Udaipur,Rajasthan,MP Nitara Nadkarni,water,1152702,1066850,1046240,2024-11-06,2025-04-02,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"050, Lanka Marg, Udaipur, PIN - 225001",ABCDE1234F,24.523635,73.66877,True,True,2024-25
+TN-MAD-2023-0226,TN-03,Madurai,Tamil Nadu,MP Lipika Kale,water,771271,737304,731894,2023-12-28,,ongoing,District Rural Development Agency (DRDA),Chopra-Chandra Builders,REG-820,"H.No. 51
+Ratta Nagar, Madurai, PIN - 209807",JCRQB6774C,9.999224,78.160722,False,False,2023-24
+WB-MUR-2023-0227,WB-04,Murshidabad,West Bengal,MP Ridhi Goswami,road,861945,752956,699655,2023-11-04,,ongoing,Public Works Department (PWD),Mishra PLC Builders,REG-365,"H.No. 86, Das Ganj, Murshidabad, PIN - 188629",DBUFF4690S,24.175643,88.339479,False,False,2023-24
+MP-JAB-2023-0228,MP-03,Jabalpur,Madhya Pradesh,MP Saumya Chand,sanitation,364857,337767,306869,2023-04-27,2023-07-05,completed,Public Works Department (PWD),Narasimhan-Samra Builders,REG-463,"891
+Mohanty Ganj, Jabalpur, PIN - 284418",KAZSV5912V,23.159203,80.012799,True,True,2023-24
+MP-JAB-2024-0229,MP-03,Jabalpur,Madhya Pradesh,MP Tripti Seth,drainage,1233616,1197763,1191012,2024-01-15,2024-01-01,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"31/426
+Aggarwal Street, Jabalpur, PIN - 462001",SDPL4433Q,23.151869,80.063511,True,True,2024-25
+UP-KAN-2024-0230,UP-04,Kanpur Nagar,Uttar Pradesh,MP Dakshesh Mahal,community_hall,1887055,1851261,1799712,2024-07-13,2025-04-14,completed,Municipal Corporation Engineering Cell,Srivastava Group Builders,REG-788,"70/442, Comar Zila, Kanpur Nagar, PIN - 433139",FPCNV4540O,26.371164,80.296665,True,True,2024-25
+K-DHA-2024-0231,KA-03,Dharwad,Karnataka,MP Jagat Gera,sanitation,336863,306773,282148,2024-12-12,2025-03-21,completed,Water Supply & Sanitation Board,Sarna-Bhakta Builders,REG-489,"H.No. 65
+Prabhakar Road, Dharwad, PIN - 610149",IMBVK7908S,15.384815,74.981319,True,True,2024-25
+WB-MUR-2024-0232,WB-04,Murshidabad,West Bengal,MP Chanakya Lad,solar,511501,436915,428028,2024-09-11,,stalled,Water Supply & Sanitation Board,"Dyal, Pathak and Kurian Builders",REG-164,"63/477
+Chokshi, Murshidabad, PIN - 589911",DJIQV6941E,24.134514,88.324065,False,False,2024-25
+WB-MUR-2023-0233,WB-04,Murshidabad,West Bengal,MP Nilima Bath,water,716107,640696,623836,2023-01-25,,ongoing,Municipal Corporation Engineering Cell,Bhatia-Sha Builders,REG-525,"311, Sridhar Chowk, Murshidabad, PIN - 846038",RQYJF9449L,24.253172,88.329062,False,False,2023-24
+R-UDA-2024-0234,RJ-04,Udaipur,Rajasthan,MP Zashil Mahal,water,560670,488341,457949,2024-11-26,2025-04-10,completed,Zila Parishad Engineering Division,"Bali, Badami and Dube Builders",REG-724,"72/12
+Pau Street, Udaipur, PIN - 810646",MVPIG9247S,24.557856,73.725679,True,True,2024-25
+MP-GWA-2024-0235,MP-04,Gwalior,Madhya Pradesh,MP Fiyaz Prakash,building,4066471,3702168,3538890,2024-04-15,,ongoing,Rural Engineering Services (RES),"Joshi, Dutt and Narain Builders",REG-400,"991
+Samra, Gwalior, PIN - 446814",MMYNU7068R,26.231789,78.204634,False,False,2024-25
+WB-MUR-2024-0236,WB-04,Murshidabad,West Bengal,MP Eta Doshi,building,4407328,4316937,3936208,2024-12-15,2025-11-12,completed,Municipal Corporation Engineering Cell,Sami Ltd Builders,REG-195,"40/28, Badami Path, Murshidabad, PIN - 796385",LAYFR1619I,24.171637,88.319639,True,True,2024-25
+TN-TIR-2023-0237,TN-04,Tiruchirappalli,Tamil Nadu,MP Rachana Chokshi,water,914996,829140,770601,2023-09-05,2024-01-21,completed,District Rural Development Agency (DRDA),Ahuja Group Builders,REG-693,"06/19, Chahal Chowk, Tiruchirappalli, PIN - 801998",WHUKY5822S,10.733242,78.71904,True,True,2023-24
+UP-BAR-2024-0238,UP-03,Barabanki,Uttar Pradesh,MP Teerth Vohra,road,1626965,1626965,1626965,2024-02-28,2024-09-28,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"570, Ranganathan Marg, Barabanki, PIN - 800001",MDUIN9988K,26.923236,81.219505,False,False,2024-25
+WB-MUR-2024-0239,WB-04,Murshidabad,West Bengal,MP Yatin Shan,community_hall,2878626,2587258,2535464,2024-08-22,,stalled,Zila Parishad Engineering Division,Madan Group Builders,REG-798,"H.No. 015, Bhargava Path, Murshidabad, PIN - 686820",ZUIHU3919F,24.157858,88.344239,False,False,2024-25
+M-NAS-2023-0240,MH-03,Nashik,Maharashtra,MP Mitali Ratti,community_hall,1598625,1493366,1362514,2023-10-21,,stalled,Municipal Corporation Engineering Cell,Sarna-Bhakta Builders,REG-489,"019
+Jhaveri Nagar, Nashik, PIN - 610149",IMBVK7908S,19.948288,73.808793,False,False,2023-24
+UP-LUC-2023-0241,UP-01,Lucknow,Uttar Pradesh,MP Jyoti Khalsa,road,1207878,1154541,1141570,2023-01-09,,ongoing,Rural Engineering Services (RES),Sarna-Bhakta Builders,REG-489,"H.No. 487
+Guha Nagar, Lucknow, PIN - 610149",IMBVK7908S,26.895807,80.963297,False,False,2023-24
+UP-LUC-2024-0242,UP-01,Lucknow,Uttar Pradesh,MP Yug Randhawa,sanitation,770000,770000,754600,2024-07-09,2024-11-16,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"26/270, Aggarwal Path, Lucknow, PIN - 411001",APXCE7711Z,26.889629,80.890876,True,True,2024-25
+M-THA-2023-0243,MH-04,Thane,Maharashtra,MP Advay Grover,road,1628931,1602789,1483851,2023-05-13,2023-11-22,completed,Municipal Corporation Engineering Cell,Dua-Vyas Builders,REG-265,"H.No. 41
+Dash Circle, Thane, PIN - 573298",NGXBQ8031I,19.17071,73.018441,True,True,2023-24
+R-JOD-2024-0244,RJ-02,Jodhpur,Rajasthan,MP Tarak Sawhney,drainage,1276781,1260259,1136580,2024-02-16,,stalled,Public Works Department (PWD),Chopra-Oak Builders,REG-208,"77/378
+Karnik Nagar, Jodhpur, PIN - 564582",UOBNR0604P,26.198311,73.033053,False,False,2024-25
+M-NAG-2023-0245,MH-02,Nagpur,Maharashtra,MP Maanas Parsa,water,650338,606942,548784,2023-04-18,,ongoing,District Rural Development Agency (DRDA),Wadhwa-Atwal Builders,REG-924,"95/180
+Krishna Zila, Nagpur, PIN - 828264",GFOQA8563H,21.170289,79.034981,False,False,2023-24
+R-UDA-2023-0246,RJ-04,Udaipur,Rajasthan,MP Ekaja Mander,sanitation,448021,430493,411683,2023-10-27,2023-12-16,completed,Public Works Department (PWD),Nagi-Chaudhry Builders,REG-127,"06/359
+Chana Zila, Udaipur, PIN - 523160",HMKRU7899R,24.568649,73.652176,True,True,2023-24
+A-KAM-2024-0247,AS-01,Kamrup Metropolitan,Assam,MP Jeremiah Sidhu,water,759978,759978,759978,2024-11-09,2025-04-24,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"26/90, Kala Chowk, Kamrup Metropolitan, PIN - 110001",NATIN3322R,26.0982,91.809639,False,False,2024-25
+M-PUN-2023-0248,MH-01,Pune,Maharashtra,MP Rehaan Dani,community_hall,2502237,2192035,2094662,2023-10-16,,ongoing,Water Supply & Sanitation Board,Dugar-Wali Builders,REG-902,"082
+Setty Path, Pune, PIN - 582436",BLVIT9370I,18.526501,73.902669,False,False,2023-24
+UP-MEE-2024-0249,UP-09,Meerut,Uttar Pradesh,MP Ucchal Dhawan,water,1440000,1440000,1411200,2024-10-12,2024-12-27,completed,District Rural Development Agency (DRDA),Apex Civil Enterprises,REG-MH-109,"19, Rajagopalan Nagar, Meerut, PIN - 411001",APXCE7711Z,28.963777,77.657279,True,True,2024-25
+G-VAD-2024-0250,GJ-03,Vadodara,Gujarat,MP Henry Jayaraman,community_hall,1731223,1681471,1550509,2024-04-03,,ongoing,Water Supply & Sanitation Board,Doshi LLC Builders,REG-670,"82, Oommen Ganj, Vadodara, PIN - 665736",ENGFW1404N,22.233087,73.180054,False,False,2024-25
+B-BHA-2024-0251,BR-04,Bhagalpur,Bihar,MP Kevin Biswas,solar,830610,789765,758409,2024-03-18,2024-07-03,completed,Public Works Department (PWD),"Tata, Chhabra and Hegde Builders",REG-836,"H.No. 458
+Deep Road, Bhagalpur, PIN - 813204",LZDXE0458V,25.256606,87.023556,True,True,2024-25
+M-AUR-2023-0252,MH-05,Aurangabad,Maharashtra,MP Aishani Dubey,sanitation,434306,405649,383497,2023-12-22,,ongoing,Rural Engineering Services (RES),Dua-Vyas Builders,REG-265,"H.No. 15, D’Alia Marg, Aurangabad, PIN - 573298",NGXBQ8031I,19.932818,75.31498,False,False,2023-24
+O-CUT-2023-0253,OD-02,Cuttack,Odisha,MP Onkar Mannan,building,6060000,6060000,5938800,2023-05-14,,stalled,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 643
+Deol Circle, Cuttack, PIN - 800001",MDUIN9988K,20.540942,85.8389,False,False,2023-24
+M-AUR-2024-0254,MH-05,Aurangabad,Maharashtra,MP Charles Krishnamurthy,building,3243249,2990259,2932863,2024-05-03,2024-04-07,completed,Rural Engineering Services (RES),Surya Dev Projects Ltd,REG-MP-883,"43/959
+Rattan, Aurangabad, PIN - 462001",SDPL4433Q,19.930681,75.302845,False,False,2024-25
+T-NIZ-2023-0255,TS-03,Nizamabad,Telangana,MP Chavvi Deep,building,3635150,3635150,3635150,2023-10-20,2024-08-02,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 00
+Gara Ganj, Nizamabad, PIN - 800001",MDUIN9988K,18.652883,78.156513,False,False,2023-24
+UP-KAN-2024-0256,UP-04,Kanpur Nagar,Uttar Pradesh,MP Chanakya Bhargava,sanitation,381840,330396,299199,2024-01-10,2024-02-14,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"96/51
+Sengupta Ganj, Kanpur Nagar, PIN - 225001",ABCDE1234F,26.505889,80.316169,True,True,2024-25
+MP-BHO-2024-0257,MP-01,Bhopal,Madhya Pradesh,MP Tamanna Tara,drainage,2160000,2160000,2116800,2024-10-20,,stalled,District Rural Development Agency (DRDA),M/s Maa Durga Infrastructure,REG-BR-442,"629, Dar, Bhopal, PIN - 800001",MDUIN9988K,23.27395,77.349881,False,False,2024-25
+TN-TIR-2024-0258,TN-04,Tiruchirappalli,Tamil Nadu,MP Kabir Kant,building,3629918,3186663,2911868,2024-06-14,2025-02-27,completed,Municipal Corporation Engineering Cell,Naik-Nayak Builders,REG-458,"00
+Oommen Nagar, Tiruchirappalli, PIN - 430015",UWVGU1882O,10.730929,78.718224,True,True,2024-25
+M-NAG-2024-0259,MH-02,Nagpur,Maharashtra,MP Nimrat Dhingra,drainage,1969164,1826699,1764166,2024-10-11,2025-02-17,completed,Municipal Corporation Engineering Cell,Bera Group Builders,REG-901,"45/05, Gokhale Circle, Nagpur, PIN - 541712",ZTYGE7141K,21.103782,79.139269,True,True,2024-25
+T-NIZ-2024-0260,TS-03,Nizamabad,Telangana,MP Chaitanya Badal,road,1593248,1465963,1420872,2024-04-22,,stalled,Rural Engineering Services (RES),Dass and Sons Builders,REG-858,"H.No. 19, Parmar Street, Nizamabad, PIN - 617993",DZLVH4612N,18.74659,78.112677,False,False,2024-25
+UP-BAR-2023-0261,UP-03,Barabanki,Uttar Pradesh,MP Bimala Dhaliwal,community_hall,4420000,4420000,4331600,2023-12-08,2024-07-14,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"57/07
+Kala Road, Barabanki, PIN - 225001",ABCDE1234F,26.880051,81.133779,True,True,2023-24
+TN-MAD-2023-0262,TN-03,Madurai,Tamil Nadu,MP Nisha Deshmukh,road,1998931,1928628,1744232,2023-05-15,2023-11-24,completed,Zila Parishad Engineering Division,Shree Ram Construction,REG-UP-001,"57/46, Lad Path, Madurai, PIN - 225001",ABCDE1234F,9.876852,78.067663,True,True,2023-24
+A-SIL-2023-0263,AS-03,Silchar,Assam,MP Bakhshi Wadhwa,water,624728,604806,551036,2023-01-27,2023-05-14,completed,Zila Parishad Engineering Division,"Karpe, Joshi and Krish Builders",REG-645,"H.No. 59
+Baral Chowk, Silchar, PIN - 623641",PNIPE9723Q,24.826293,92.758043,True,True,2023-24
+O-KHO-2023-0264,OD-01,Khordha,Odisha,MP Guneet Saraf,road,1249363,1132834,1061947,2023-03-05,,stalled,District Rural Development Agency (DRDA),Shere and Sons Builders,REG-216,"83, De Street, Khordha, PIN - 474825",EILGW5656S,20.257517,85.576928,False,False,2023-24
+B-GAY-2024-0265,BR-02,Gaya,Bihar,MP Vinaya Apte,road,1472482,1359614,1322537,2024-03-28,,ongoing,Water Supply & Sanitation Board,"Tata, Chhabra and Hegde Builders",REG-836,"71/82, Mammen Nagar, Gaya, PIN - 813204",LZDXE0458V,24.738189,84.982299,False,False,2024-25
+TN-CHE-2024-0266,TN-01,Chennai,Tamil Nadu,MP Ishwar Jain,community_hall,2629931,2487167,2435091,2024-12-16,2025-07-04,completed,Public Works Department (PWD),"Nair, Narula and Kannan Builders",REG-794,"H.No. 53
+Chaudhary Street, Chennai, PIN - 731946",CLLPK2531V,13.037824,80.22318,True,True,2024-25
+R-BIK-2023-0267,RJ-05,Bikaner,Rajasthan,MP Garima Nagarajan,water,909252,820814,786665,2023-03-25,,ongoing,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"H.No. 238
+Lall Path, Bikaner, PIN - 225001",ABCDE1234F,28.04228,73.300076,False,False,2023-24
+MP-UJJ-2024-0268,MP-05,Ujjain,Madhya Pradesh,MP Ridhi Sunder,building,3756865,3668167,3489450,2024-11-03,2025-08-22,completed,District Rural Development Agency (DRDA),Bhalla Ltd Builders,REG-971,"H.No. 36
+Sur Circle, Ujjain, PIN - 275156",XLCRV3305J,23.244757,75.724245,True,True,2024-25
+O-PUR-2024-0269,OD-03,Puri,Odisha,MP Ishita Wagle,sanitation,416877,407809,396234,2024-04-23,,stalled,Zila Parishad Engineering Division,"Magar, Prasad and Pandit Builders",REG-871,"H.No. 45, Vyas Street, Puri, PIN - 788324",AFUXI3384B,19.734865,85.799116,False,False,2024-25
+WB-HOW-2023-0270,WB-02,Howrah,West Bengal,MP Ayushman Panchal,community_hall,3487355,3212431,3056893,2023-07-08,,stalled,District Rural Development Agency (DRDA),Basak Inc Builders,REG-865,"H.No. 867, Hayer Nagar, Howrah, PIN - 520780",PSHYA8826G,22.631402,88.257424,False,False,2023-24
+MP-UJJ-2023-0271,MP-05,Ujjain,Madhya Pradesh,MP Advay Vohra,sanitation,425471,421855,380077,2023-06-05,2023-07-21,completed,Rural Engineering Services (RES),Bhatia-Sha Builders,REG-525,"88/530, Dhar Chowk, Ujjain, PIN - 846038",RQYJF9449L,23.132579,75.776615,True,True,2023-24
+UP-VAR-2023-0272,UP-05,Varanasi,Uttar Pradesh,MP Pranit Doctor,building,2708051,2548751,2514838,2023-06-19,,ongoing,Rural Engineering Services (RES),"Tailor, Bir and Manne Builders",REG-320,"754, Grover, Varanasi, PIN - 504468",XJEDR0790Q,25.389391,82.904093,False,False,2023-24
+UP-GOR-2023-0273,UP-07,Gorakhpur,Uttar Pradesh,MP Inaya Narasimhan,building,4845157,4556892,4113432,2023-11-18,2023-11-10,completed,Public Works Department (PWD),Apex Civil Enterprises,REG-MH-109,"H.No. 495
+Trivedi Nagar, Gorakhpur, PIN - 411001",APXCE7711Z,26.826415,83.354943,True,True,2023-24
+TN-CHE-2023-0274,TN-01,Chennai,Tamil Nadu,MP Yauvani Sood,road,1286108,1286108,1286108,2023-06-28,2024-01-19,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"45/71, Vora Zila, Chennai, PIN - 800001",MDUIN9988K,13.121603,80.252939,False,False,2023-24
+R-JAI-2024-0275,RJ-01,Jaipur,Rajasthan,MP Damini Madan,drainage,1082466,1082466,1082466,2024-03-20,2024-07-24,completed,Rural Engineering Services (RES),Royal Highway Builders,REG-RJ-551,"H.No. 31, Bajaj Ganj, Jaipur, PIN - 302001",RYHB8822P,26.864672,75.865874,False,False,2024-25
+K-MYS-2023-0276,KA-02,Mysuru,Karnataka,MP Ayaan Mander,sanitation,340154,312611,299360,2023-09-11,2024-01-01,completed,Zila Parishad Engineering Division,"Sampath, Aurora and Nagy Builders",REG-889,"54
+Saran Chowk, Mysuru, PIN - 714788",ERSPV5800U,12.319208,76.706423,True,True,2023-24
+M-THA-2023-0277,MH-04,Thane,Maharashtra,MP Unnati Dar,drainage,869887,858252,788170,2023-03-20,,stalled,Public Works Department (PWD),Raghavan-Buch Builders,REG-816,"25, Devi Nagar, Thane, PIN - 378690",BAGVQ2419O,19.201268,73.04941,False,False,2023-24
+UP-PRA-2023-0278,UP-06,Prayagraj,Uttar Pradesh,MP Chavvi Vyas,community_hall,2463614,2461883,2234536,2023-08-14,2023-08-08,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"342
+Mann Street, Prayagraj, PIN - 225001",ABCDE1234F,25.478446,81.818462,True,True,2023-24
+K-MAN-2024-0279,KA-04,Mangaluru,Karnataka,MP Udant Chauhan,community_hall,4420000,4420000,4331600,2024-07-11,2025-03-06,completed,Rural Engineering Services (RES),National Infra Conclave,REG-DL-990,"792
+Kulkarni Path, Mangaluru, PIN - 110001",NATIN3322R,12.886438,74.895788,True,True,2024-25
+B-GAY-2024-0280,BR-02,Gaya,Bihar,MP Pavani Varty,community_hall,1459185,1277645,1152188,2024-03-16,2024-02-23,completed,Rural Engineering Services (RES),M/s Maa Durga Infrastructure,REG-BR-442,"58/914
+Lata Zila, Gaya, PIN - 800001",MDUIN9988K,24.758463,85.005745,True,True,2024-25
+MP-UJJ-2023-0281,MP-05,Ujjain,Madhya Pradesh,MP Neha Viswanathan,water,1440000,1440000,1411200,2023-04-23,,stalled,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"978, Pandey Road, Ujjain, PIN - 302001",RYHB8822P,23.158999,75.757832,False,False,2023-24
+T-WAR-2023-0282,TS-02,Warangal,Telangana,MP Libni Sur,building,3636814,3106536,2800405,2023-06-08,2024-04-04,completed,Water Supply & Sanitation Board,Aggarwal-Kari Builders,REG-453,"H.No. 135, Loyal Nagar, Warangal, PIN - 438914",ZNYCZ1921N,17.924191,79.655266,True,True,2023-24
+TN-MAD-2023-0283,TN-03,Madurai,Tamil Nadu,MP Anay Sankaran,community_hall,2258753,2064911,1906410,2023-10-07,2024-06-30,completed,Water Supply & Sanitation Board,"Choudhary, Andra and Chopra Builders",REG-689,"H.No. 26, Ghose Marg, Madurai, PIN - 444394",GBLOT7192X,9.896939,78.042199,True,True,2023-24
+G-AHM-2024-0284,GJ-01,Ahmedabad,Gujarat,MP Zaid Parekh,solar,498254,480880,456815,2024-01-03,2024-04-25,completed,Municipal Corporation Engineering Cell,"Shukla, Bakshi and Halder Builders",REG-203,"16/217
+Ratta Road, Ahmedabad, PIN - 612780",USBLK1483M,23.069102,72.638956,True,True,2024-25
+G-VAD-2023-0285,GJ-03,Vadodara,Gujarat,MP Krisha Jayaraman,sanitation,294008,263929,260011,2023-06-06,,ongoing,Municipal Corporation Engineering Cell,Bhatnagar Inc Builders,REG-518,"H.No. 04
+Pant Zila, Vadodara, PIN - 452027",FLYXQ6195V,22.280817,73.198565,False,False,2023-24
+UP-BAR-2023-0286,UP-03,Barabanki,Uttar Pradesh,MP Ekaraj Sabharwal,building,3084651,2963384,2891446,2023-10-25,,stalled,Zila Parishad Engineering Division,Deol-Dewan Builders,REG-536,"H.No. 416
+Bhatti Chowk, Barabanki, PIN - 684485",LURZP9867Q,26.856788,81.164224,False,False,2023-24
+MP-UJJ-2024-0287,MP-05,Ujjain,Madhya Pradesh,MP Balhaar Srivastava,community_hall,3461567,2962897,2901203,2024-03-09,,ongoing,Water Supply & Sanitation Board,"Sampath, Aurora and Nagy Builders",REG-889,"05/335
+Gole, Ujjain, PIN - 714788",ERSPV5800U,23.216588,75.745142,False,False,2024-25
+B-GAY-2023-0288,BR-02,Gaya,Bihar,MP Jeremiah Naidu,sanitation,509705,467070,420645,2023-10-28,,ongoing,Public Works Department (PWD),Shetty Ltd Builders,REG-953,"24
+Pillay Nagar, Gaya, PIN - 110425",KHDKY6963R,24.863986,84.928537,False,False,2023-24
+M-SOL-2023-0289,MH-06,Solapur,Maharashtra,MP Arjun Varghese,building,3598407,3165268,2982953,2023-07-24,,stalled,Water Supply & Sanitation Board,Shukla PLC Builders,REG-119,"07
+Chakrabarti Circle, Solapur, PIN - 378355",IDAXM8746C,17.628396,75.918627,False,False,2023-24
+MP-BHO-2024-0290,MP-01,Bhopal,Madhya Pradesh,MP Shravya Jhaveri,building,3456656,3332384,3272269,2024-08-14,,ongoing,District Rural Development Agency (DRDA),Garg Ltd Builders,REG-405,"H.No. 865, Pandya Street, Bhopal, PIN - 779987",CLLYW2519U,23.301809,77.400984,False,False,2024-25
+B-MUZ-2024-0291,BR-03,Muzaffarpur,Bihar,MP Yauvani Bains,drainage,1577186,1454365,1357392,2024-05-15,,ongoing,District Rural Development Agency (DRDA),Gade-Kota Builders,REG-700,"H.No. 89, Patel Marg, Muzaffarpur, PIN - 698866",YRMCC4731B,26.065656,85.31504,False,False,2024-25
+MP-IND-2024-0292,MP-02,Indore,Madhya Pradesh,MP Imaran Goda,community_hall,4160686,3581040,3539857,2024-07-16,2025-02-09,completed,Rural Engineering Services (RES),Dara-Rai Builders,REG-978,"80
+Upadhyay, Indore, PIN - 209994",CJOBA1447S,22.788741,75.803678,True,True,2024-25
+K-MAN-2024-0293,KA-04,Mangaluru,Karnataka,MP Amara Bir,community_hall,1386242,1331276,1230412,2024-12-02,2025-06-20,completed,Water Supply & Sanitation Board,Doshi LLC Builders,REG-670,"87/03
+Dutta Chowk, Mangaluru, PIN - 665736",ENGFW1404N,12.935052,74.884228,True,True,2024-25
+B-GAY-2023-0294,BR-02,Gaya,Bihar,MP Zarna Buch,solar,386167,381352,358381,2023-01-04,,stalled,Rural Engineering Services (RES),"Pathak, Choudhary and Barad Builders",REG-381,"89/065, Wason Marg, Gaya, PIN - 571239",LEWLT8274H,24.794366,84.950412,False,False,2023-24
+MP-BHO-2024-0295,MP-01,Bhopal,Madhya Pradesh,MP Timothy Mukhopadhyay,solar,259223,254145,231507,2024-12-14,,stalled,Public Works Department (PWD),Srivastava Group Builders,REG-788,"49
+Kata Zila, Bhopal, PIN - 433139",FPCNV4540O,23.310176,77.375643,False,False,2024-25
+UP-BAR-2023-0296,UP-03,Barabanki,Uttar Pradesh,MP Hemang Talwar,road,1408907,1352489,1240318,2023-12-14,2024-04-28,completed,Public Works Department (PWD),Dutt-Chander Builders,REG-470,"H.No. 73
+Dutta Nagar, Barabanki, PIN - 648169",UGIEB7574Y,26.959848,81.135983,True,True,2023-24
+O-PUR-2023-0297,OD-03,Puri,Odisha,MP Pallavi Ramaswamy,building,4109060,4109060,4109060,2023-05-28,2024-02-16,completed,Zila Parishad Engineering Division,Shree Ram Construction,REG-UP-001,"86/350
+Koshy Path, Puri, PIN - 225001",ABCDE1234F,19.7804,85.811637,False,False,2023-24
+K-BEN-2024-0298,KA-01,Bengaluru Urban,Karnataka,MP Orinder Zacharia,building,3389668,3016506,3002996,2024-08-22,,stalled,District Rural Development Agency (DRDA),Palla Inc Builders,REG-140,"H.No. 910
+Solanki Chowk, Bengaluru Urban, PIN - 759468",YCEPR2182T,12.907095,77.598174,False,False,2024-25
+T-HYD-2024-0299,TS-01,Hyderabad,Telangana,MP Gagan Krishnamurthy,water,633204,568163,524959,2024-06-12,2024-05-13,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"98/42
+Ben Marg, Hyderabad, PIN - 110001",NATIN3322R,17.36555,78.415859,True,True,2024-25
+A-SIL-2023-0300,AS-03,Silchar,Assam,MP Qadim Patla,building,3025071,2888609,2835184,2023-10-04,2023-08-20,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"H.No. 30, Madan Circle, Silchar, PIN - 411001",APXCE7711Z,24.852236,92.80432,True,True,2023-24
+UP-LUC-2024-0301,UP-01,Lucknow,Uttar Pradesh,MP Charvi Krish,community_hall,1600397,1416405,1343394,2024-01-26,,stalled,Rural Engineering Services (RES),"Pathak, Choudhary and Barad Builders",REG-381,"H.No. 175, Lata Path, Lucknow, PIN - 571239",LEWLT8274H,26.822433,81.016454,False,False,2024-25
+M-AUR-2023-0302,MH-05,Aurangabad,Maharashtra,MP Gabriel Vaidya,community_hall,1569872,1341866,1274494,2023-09-19,2024-05-26,completed,Rural Engineering Services (RES),Chakraborty Group Builders,REG-482,"01
+Kant Street, Aurangabad, PIN - 465556",OBNTH9619M,19.929377,75.422709,True,True,2023-24
+M-SOL-2023-0303,MH-06,Solapur,Maharashtra,MP Gautami Nagar,building,3491875,3454688,3222015,2023-02-14,,ongoing,Rural Engineering Services (RES),Tak-Zachariah Builders,REG-887,"847, Subramaniam Zila, Solapur, PIN - 539322",OMZDW0374N,17.61516,75.867621,False,False,2023-24
+WB-DAR-2024-0304,WB-03,Darjeeling,West Bengal,MP Damini Dutt,road,960859,909547,852883,2024-04-19,,ongoing,Public Works Department (PWD),"Kapur, Srinivasan and Vohra Builders",REG-343,"12/98, Rai Marg, Darjeeling, PIN - 161685",OMEKQ6438W,27.1156,88.256214,False,False,2024-25
+M-AUR-2023-0305,MH-05,Aurangabad,Maharashtra,MP Liam Parekh,community_hall,2873440,2606294,2537727,2023-10-12,2024-06-26,completed,Rural Engineering Services (RES),Pandya-Shenoy Builders,REG-509,"H.No. 227, Wagle, Aurangabad, PIN - 822526",VWFRK2073Q,19.89061,75.293677,True,True,2023-24
+TN-CHE-2023-0306,TN-01,Chennai,Tamil Nadu,MP Mekhala Sur,community_hall,2567718,2304241,2261877,2023-02-13,2023-12-08,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"016, Patla Road, Chennai, PIN - 225001",ABCDE1234F,13.082673,80.263626,True,True,2023-24
+R-JOD-2023-0307,RJ-02,Jodhpur,Rajasthan,MP Urmi Pillai,water,580314,565401,536849,2023-05-28,,ongoing,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"83/408, Arya Nagar, Jodhpur, PIN - 225001",ABCDE1234F,26.315883,72.997603,False,False,2023-24
+T-WAR-2024-0308,TS-02,Warangal,Telangana,MP Jairaj Chowdhury,building,4900288,4835880,4429275,2024-12-13,2025-09-22,completed,Rural Engineering Services (RES),"Dyal, Cheema and Thaman Builders",REG-163,"H.No. 626, Ramanathan Road, Warangal, PIN - 268471",QKJJE0428S,17.951666,79.58169,True,True,2024-25
+G-RAJ-2024-0309,GJ-04,Rajkot,Gujarat,MP Barkha Som,building,4768111,4672168,4230238,2024-02-05,2024-11-07,completed,Rural Engineering Services (RES),Chopra-Chandra Builders,REG-820,"69, Saxena Chowk, Rajkot, PIN - 209807",JCRQB6774C,22.328641,70.814545,True,True,2024-25
+O-PUR-2023-0310,OD-03,Puri,Odisha,MP Jeremiah Chand,community_hall,2281372,2281372,2281372,2023-06-24,2024-02-27,completed,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"30/633, Bala Ganj, Puri, PIN - 302001",RYHB8822P,19.842211,85.778116,False,False,2023-24
+M-THA-2023-0311,MH-04,Thane,Maharashtra,MP Sanya Verma,road,1862391,1624536,1579463,2023-09-21,2024-03-02,completed,Zila Parishad Engineering Division,"Madan, Chowdhury and Dixit Builders",REG-553,"H.No. 149
+Dhingra Marg, Thane, PIN - 687057",KIWGE4422C,19.157308,72.961563,True,True,2023-24
+T-NIZ-2023-0312,TS-03,Nizamabad,Telangana,MP Irya Dara,community_hall,1964472,1856131,1753137,2023-08-28,2023-07-18,completed,Water Supply & Sanitation Board,Surya Dev Projects Ltd,REG-MP-883,"78/75
+Patla Nagar, Nizamabad, PIN - 462001",SDPL4433Q,18.61116,78.033628,True,True,2023-24
+WB-HOW-2023-0313,WB-02,Howrah,West Bengal,MP Jeet Balay,water,1395600,1333370,1239815,2023-10-06,2023-08-27,completed,Municipal Corporation Engineering Cell,Surya Dev Projects Ltd,REG-MP-883,"59/217, Lad Nagar, Howrah, PIN - 462001",SDPL4433Q,22.567837,88.297803,True,True,2023-24
+T-NIZ-2024-0314,TS-03,Nizamabad,Telangana,MP Finn Kumer,sanitation,343748,343748,343748,2024-02-17,2024-05-06,completed,Public Works Department (PWD),Royal Highway Builders,REG-RJ-551,"H.No. 91
+Kari Circle, Nizamabad, PIN - 302001",RYHB8822P,18.621406,78.109956,False,False,2024-25
+A-KAM-2023-0315,AS-01,Kamrup Metropolitan,Assam,MP Umang Cherian,water,667826,576449,533605,2023-01-05,2023-03-27,completed,Zila Parishad Engineering Division,Sarna-Bhakta Builders,REG-489,"28/01, Parmar Path, Kamrup Metropolitan, PIN - 610149",IMBVK7908S,26.221289,91.737184,True,True,2023-24
+UP-VAR-2024-0316,UP-05,Varanasi,Uttar Pradesh,MP Dhruv Anne,solar,666751,636257,605886,2024-11-18,2025-01-09,completed,Water Supply & Sanitation Board,Sarna-Naidu Builders,REG-175,"H.No. 657
+Anne Zila, Varanasi, PIN - 468411",UPTFL7002D,25.319294,83.003969,True,True,2024-25
+M-PUN-2023-0317,MH-01,Pune,Maharashtra,MP Omya Kalita,solar,838844,838844,838844,2023-10-12,2024-01-01,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"26/44, Bahl Circle, Pune, PIN - 411001",APXCE7711Z,18.544363,73.802831,False,False,2023-24
+G-VAD-2023-0318,GJ-03,Vadodara,Gujarat,MP Onveer Lad,drainage,1409031,1408050,1365358,2023-09-07,2024-03-19,completed,Municipal Corporation Engineering Cell,Kashyap-Chanda Builders,REG-437,"86, Dash Ganj, Vadodara, PIN - 351192",IBWTA5572G,22.317383,73.204843,True,True,2023-24
+UP-LUC-2023-0319,UP-01,Lucknow,Uttar Pradesh,MP Arjun Jhaveri,solar,651081,606973,550279,2023-02-09,2023-01-11,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"747
+Badal Path, Lucknow, PIN - 800001",MDUIN9988K,26.912179,80.990691,True,True,2023-24
+MP-BHO-2023-0320,MP-01,Bhopal,Madhya Pradesh,MP Raksha Tak,road,2780000,2780000,2724400,2023-03-17,,stalled,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"653, Gera Zila, Bhopal, PIN - 225001",ABCDE1234F,23.291973,77.471064,False,False,2023-24
+M-NAS-2024-0321,MH-03,Nashik,Maharashtra,MP Dhriti Tella,water,517483,501085,478619,2024-03-12,,ongoing,Water Supply & Sanitation Board,"Verma, Wagle and Buch Builders",REG-782,"29
+Soni Zila, Nashik, PIN - 800017",BSSWB0446J,20.01227,73.75125,False,False,2024-25
+UP-KAN-2024-0322,UP-04,Kanpur Nagar,Uttar Pradesh,MP Saumya Gola,community_hall,3321916,3175811,2916380,2024-12-25,2025-08-22,completed,Rural Engineering Services (RES),Basak Inc Builders,REG-865,"37/82
+Lala, Kanpur Nagar, PIN - 520780",PSHYA8826G,26.450257,80.296032,True,True,2024-25
+UP-GOR-2024-0323,UP-07,Gorakhpur,Uttar Pradesh,MP Gaurav Soni,water,843673,809498,805034,2024-06-28,2024-05-27,completed,Municipal Corporation Engineering Cell,National Infra Conclave,REG-DL-990,"89/10
+Parmar Zila, Gorakhpur, PIN - 110001",NATIN3322R,26.689786,83.412146,True,True,2024-25
+WB-MUR-2023-0324,WB-04,Murshidabad,West Bengal,MP Aayush Pandya,community_hall,2301141,2301141,2301141,2023-08-16,2023-12-28,completed,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"68/53, Viswanathan Street, Murshidabad, PIN - 302001",RYHB8822P,24.194506,88.345942,False,False,2023-24
+G-RAJ-2024-0325,GJ-04,Rajkot,Gujarat,MP Osha Dugar,solar,313699,313659,311932,2024-04-24,,stalled,Water Supply & Sanitation Board,Palla Inc Builders,REG-140,"19/29
+Goel Ganj, Rajkot, PIN - 759468",YCEPR2182T,22.32108,70.876544,False,False,2024-25
+M-PUN-2024-0326,MH-01,Pune,Maharashtra,MP Oni Chaudry,solar,602588,599851,560138,2024-01-14,2024-03-25,completed,Zila Parishad Engineering Division,"Sane, Mani and Boase Builders",REG-541,"H.No. 202, Choudhry Chowk, Pune, PIN - 795386",EJTOX0564A,18.576524,73.913949,True,True,2024-25
+M-SOL-2023-0327,MH-06,Solapur,Maharashtra,MP Eta Deol,water,743901,632973,598814,2023-08-20,2023-12-23,completed,Water Supply & Sanitation Board,"Narain, Borde and Bava Builders",REG-820,"H.No. 93, Kaul Ganj, Solapur, PIN - 161040",ARPYX2054V,17.597046,75.882355,True,True,2023-24
+WB-MUR-2024-0328,WB-04,Murshidabad,West Bengal,MP Vidhi Parekh,building,3559485,3159114,2991901,2024-02-16,2025-02-01,completed,Municipal Corporation Engineering Cell,Deep-Shan Builders,REG-299,"98/21
+Munshi Marg, Murshidabad, PIN - 490133",HACDG3400R,24.154219,88.342951,True,True,2024-25
+R-UDA-2024-0329,RJ-04,Udaipur,Rajasthan,MP Balvan Bali,community_hall,1870050,1620585,1504696,2024-01-12,2024-10-13,completed,District Rural Development Agency (DRDA),"Tara, Dubey and Sarin Builders",REG-175,"H.No. 910, Mody Circle, Udaipur, PIN - 196023",MJYLR6067W,24.572769,73.685494,True,True,2024-25
+MP-JAB-2024-0330,MP-03,Jabalpur,Madhya Pradesh,MP Kabir Mani,drainage,1559148,1559148,1559148,2024-11-23,2025-05-26,completed,District Rural Development Agency (DRDA),Apex Civil Enterprises,REG-MH-109,"25/97, Memon Zila, Jabalpur, PIN - 411001",APXCE7711Z,23.119057,79.923661,False,False,2024-25
+WB-MUR-2023-0331,WB-04,Murshidabad,West Bengal,MP Widisha Chakrabarti,road,1128324,1060131,954969,2023-01-22,,ongoing,Rural Engineering Services (RES),Wadhwa-Atwal Builders,REG-924,"80/10, Yadav, Murshidabad, PIN - 828264",GFOQA8563H,24.141056,88.213418,False,False,2023-24
+B-MUZ-2023-0332,BR-03,Muzaffarpur,Bihar,MP Jasmit Lanka,community_hall,488148,488148,488148,2023-11-27,,stalled,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"814
+Krishna Path, Muzaffarpur, PIN - 800001",MDUIN9988K,26.071087,85.42148,False,False,2023-24
+MP-GWA-2023-0333,MP-04,Gwalior,Madhya Pradesh,MP Ayushman Raman,road,2780000,2780000,2724400,2023-02-28,2023-09-25,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"866, Wagle Circle, Gwalior, PIN - 225001",ABCDE1234F,26.192088,78.179471,True,True,2023-24
+B-BHA-2024-0334,BR-04,Bhagalpur,Bihar,MP Chanchal Shere,water,886450,886450,886450,2024-06-23,2024-09-28,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 496, Raj Circle, Bhagalpur, PIN - 800001",MDUIN9988K,25.196416,86.979729,False,False,2024-25
+B-MUZ-2024-0335,BR-03,Muzaffarpur,Bihar,MP Samesh Atwal,drainage,1487629,1416883,1384360,2024-06-10,2024-12-11,completed,Water Supply & Sanitation Board,Bava and Sons Builders,REG-290,"H.No. 854
+Ramesh Path, Muzaffarpur, PIN - 124768",NXDNH8376W,26.098591,85.414306,True,True,2024-25
+MP-BHO-2023-0336,MP-01,Bhopal,Madhya Pradesh,MP Pratyush Bahri,road,1297647,1217172,1206482,2023-03-21,2023-09-16,completed,District Rural Development Agency (DRDA),Suresh-Dash Builders,REG-998,"H.No. 436
+Dar, Bhopal, PIN - 688116",OIZNL6078U,23.292646,77.48068,True,True,2023-24
+TN-COI-2023-0337,TN-02,Coimbatore,Tamil Nadu,MP Vinaya Chandra,community_hall,3208433,3208433,3208433,2023-01-05,2023-09-15,completed,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"87
+Vala Street, Coimbatore, PIN - 302001",RYHB8822P,11.079986,76.947557,False,False,2023-24
+UP-PRA-2024-0338,UP-06,Prayagraj,Uttar Pradesh,MP Bishakha Bath,drainage,1024632,913072,910103,2024-09-17,2025-02-18,completed,Water Supply & Sanitation Board,Borra Inc Builders,REG-170,"H.No. 251
+Dada Marg, Prayagraj, PIN - 366150",ITBLZ9022L,25.508728,81.776027,True,True,2024-25
+UP-PRA-2024-0339,UP-06,Prayagraj,Uttar Pradesh,MP Chakradhar Mani,building,3195486,3007216,2768721,2024-09-13,2025-06-12,completed,District Rural Development Agency (DRDA),Ramaswamy Ltd Builders,REG-406,"97, Golla Zila, Prayagraj, PIN - 779975",QLRXM2509S,25.447304,81.861038,True,True,2024-25
+R-JAI-2023-0340,RJ-01,Jaipur,Rajasthan,MP Mahika Balan,sanitation,500021,441813,421205,2023-05-23,2023-07-20,completed,Zila Parishad Engineering Division,"Butala, Dewan and Narayan Builders",REG-261,"62
+Brar Zila, Jaipur, PIN - 169642",EFBTB3049Q,26.934738,75.858027,True,True,2023-24
+A-DIB-2023-0341,AS-02,Dibrugarh,Assam,MP Hema Patla,building,490824,490824,490824,2023-01-21,,stalled,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"787, Yohannan, Dibrugarh, PIN - 800001",MDUIN9988K,27.508333,94.897335,False,False,2023-24
+O-CUT-2023-0342,OD-02,Cuttack,Odisha,MP Anay Luthra,water,670787,648468,634234,2023-05-01,2023-06-09,completed,Water Supply & Sanitation Board,Chana-Kunda Builders,REG-914,"H.No. 220
+Rout, Cuttack, PIN - 526176",RUXCC1158I,20.533805,85.843975,True,True,2023-24
+K-BEN-2024-0343,KA-01,Bengaluru Urban,Karnataka,MP Chakrika Manne,community_hall,3459497,3131868,3101228,2024-03-15,2024-11-15,completed,Public Works Department (PWD),Shree Ram Construction,REG-UP-001,"H.No. 519, Nigam Chowk, Bengaluru Urban, PIN - 225001",ABCDE1234F,12.920642,77.544204,True,True,2024-25
+M-NAS-2024-0344,MH-03,Nashik,Maharashtra,MP Jeevika Sankaran,building,3911790,3575216,3380375,2024-11-20,2024-11-15,completed,District Rural Development Agency (DRDA),National Infra Conclave,REG-DL-990,"31/98, Maharaj Nagar, Nashik, PIN - 110001",NATIN3322R,20.033389,73.731767,False,False,2024-25
+UP-VAR-2023-0345,UP-05,Varanasi,Uttar Pradesh,MP Janani Hari,building,4377889,4377889,4377889,2023-02-09,2024-01-01,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"814
+Bajaj Chowk, Varanasi, PIN - 800001",MDUIN9988K,25.355381,82.948042,False,False,2023-24
+WB-HOW-2024-0346,WB-02,Howrah,West Bengal,MP Advaith Dutta,sanitation,500460,429585,416355,2024-03-10,,stalled,Municipal Corporation Engineering Cell,Kothari Inc Builders,REG-906,"57/14, Bahl Path, Howrah, PIN - 765420",KRMAH2802I,22.519193,88.190724,False,False,2024-25
+UP-LUC-2024-0347,UP-01,Lucknow,Uttar Pradesh,MP Arya Kohli,building,4024024,3976756,3851256,2024-07-05,2024-06-09,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"H.No. 970
+Ramaswamy Ganj, Lucknow, PIN - 225001",ABCDE1234F,26.793829,80.883822,True,True,2024-25
+R-BIK-2023-0348,RJ-05,Bikaner,Rajasthan,MP Bimala Soni,road,1942480,1825817,1767287,2023-10-05,2024-04-18,completed,District Rural Development Agency (DRDA),Chakraborty Group Builders,REG-482,"83, Shetty Nagar, Bikaner, PIN - 465556",OBNTH9619M,28.042861,73.277821,True,True,2023-24
+A-KAM-2023-0349,AS-01,Kamrup Metropolitan,Assam,MP Indali Bhat,road,2780000,2780000,2724400,2023-03-25,,ongoing,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 25, Samra Nagar, Kamrup Metropolitan, PIN - 800001",MDUIN9988K,26.082606,91.724593,False,False,2023-24
+M-THA-2024-0350,MH-04,Thane,Maharashtra,MP Akshay Tella,sanitation,454169,452319,434305,2024-06-11,2024-07-11,completed,Public Works Department (PWD),Sandal-Ramakrishnan Builders,REG-745,"66/11, Vora Circle, Thane, PIN - 748448",QMLBG1284A,19.266643,73.002733,True,True,2024-25
+B-PAT-2023-0351,BR-01,Patna,Bihar,MP Zinal Bedi,drainage,1385808,1322095,1288815,2023-10-23,2024-02-15,completed,District Rural Development Agency (DRDA),"Mody, Garde and Sundaram Builders",REG-258,"H.No. 679, Bajwa Nagar, Patna, PIN - 190913",CRNAI9371E,25.571974,85.090125,True,True,2023-24
+R-BIK-2023-0352,RJ-05,Bikaner,Rajasthan,MP Karan Kuruvilla,sanitation,604164,604164,604164,2023-05-15,2023-08-19,completed,Public Works Department (PWD),National Infra Conclave,REG-DL-990,"H.No. 287, Din Nagar, Bikaner, PIN - 110001",NATIN3322R,28.075351,73.240839,False,False,2023-24
+O-KHO-2024-0353,OD-01,Khordha,Odisha,MP Gavin Konda,building,2706503,2706503,2706503,2024-12-01,2025-09-16,completed,Public Works Department (PWD),Apex Civil Enterprises,REG-MH-109,"996
+Chawla Road, Khordha, PIN - 411001",APXCE7711Z,20.177492,85.632828,False,False,2024-25
+M-NAG-2023-0354,MH-02,Nagpur,Maharashtra,MP Dayita Gara,road,486822,486822,486822,2023-02-01,2023-06-11,completed,Rural Engineering Services (RES),M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 977
+Mitra Zila, Nagpur, PIN - 800001",MDUIN9988K,21.17757,79.056121,True,True,2023-24
+UP-KAN-2023-0355,UP-04,Kanpur Nagar,Uttar Pradesh,MP Meera Bala,community_hall,2814617,2559777,2412236,2023-10-25,,ongoing,Municipal Corporation Engineering Cell,"Arya, Rau and Badami Builders",REG-180,"H.No. 264, Gill, Kanpur Nagar, PIN - 826308",RQDTE9981N,26.483725,80.293189,False,False,2023-24
+TN-CHE-2023-0356,TN-01,Chennai,Tamil Nadu,MP Darpan Shukla,drainage,1259655,1144829,1124508,2023-12-07,,stalled,Zila Parishad Engineering Division,Nagy and Sons Builders,REG-355,"H.No. 32
+Bhardwaj Street, Chennai, PIN - 237253",RXWXU2864R,13.133349,80.26565,False,False,2023-24
+MP-GWA-2024-0357,MP-04,Gwalior,Madhya Pradesh,MP Hemang Nagy,building,4010832,4010832,4010832,2024-02-04,2025-01-05,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"31, Bhattacharyya Circle, Gwalior, PIN - 411001",APXCE7711Z,26.224951,78.113251,False,False,2024-25
+M-AUR-2023-0358,MH-05,Aurangabad,Maharashtra,MP Aadi Mittal,solar,663123,663123,663123,2023-11-02,2024-01-31,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"37/105, Mandal Circle, Aurangabad, PIN - 411001",APXCE7711Z,19.803888,75.278214,False,False,2023-24
+T-HYD-2024-0359,TS-01,Hyderabad,Telangana,MP Bina Banerjee,water,982956,887978,810681,2024-09-07,2024-08-09,completed,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"446, Dube Street, Hyderabad, PIN - 302001",RYHB8822P,17.370166,78.525332,True,True,2024-25
+K-BEN-2023-0360,KA-01,Bengaluru Urban,Karnataka,MP Mitali Upadhyay,sanitation,540859,531545,483349,2023-05-06,2023-07-24,completed,Water Supply & Sanitation Board,Kakar Group Builders,REG-447,"H.No. 179, Gopal, Bengaluru Urban, PIN - 342335",LRJLC4408X,13.020796,77.619275,True,True,2023-24
+T-WAR-2024-0361,TS-02,Warangal,Telangana,MP Xiti Rajagopalan,water,1070383,1060772,958939,2024-03-11,,ongoing,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"23/96
+Walla, Warangal, PIN - 225001",ABCDE1234F,17.922311,79.611762,False,False,2024-25
+T-WAR-2024-0362,TS-02,Warangal,Telangana,MP Siya Patla,sanitation,416188,359201,326661,2024-09-28,2024-08-25,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"H.No. 02
+Brar Zila, Warangal, PIN - 411001",APXCE7711Z,18.038349,79.539936,True,True,2024-25
+WB-HOW-2024-0363,WB-02,Howrah,West Bengal,MP Netra Ravi,water,602896,602896,602896,2024-11-05,2025-05-18,completed,Water Supply & Sanitation Board,Apex Civil Enterprises,REG-MH-109,"H.No. 298
+Choudhry, Howrah, PIN - 411001",APXCE7711Z,22.581245,88.282749,False,False,2024-25
+WB-MUR-2024-0364,WB-04,Murshidabad,West Bengal,MP Darpan Pai,sanitation,341860,341860,341860,2024-06-03,2024-07-18,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"181, Walla Zila, Murshidabad, PIN - 225001",ABCDE1234F,24.214467,88.239371,False,False,2024-25
+B-DAR-2023-0365,BR-05,Darbhanga,Bihar,MP Ishita Ahuja,drainage,1030630,1030630,1030630,2023-10-13,2024-03-23,completed,Rural Engineering Services (RES),M/s Maa Durga Infrastructure,REG-BR-442,"59/875, Oza Path, Darbhanga, PIN - 800001",MDUIN9988K,26.149158,85.897419,False,False,2023-24
+O-CUT-2024-0366,OD-02,Cuttack,Odisha,MP Shivani Nagar,road,1584704,1428394,1371882,2024-07-07,2024-12-25,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"36/97
+Purohit Nagar, Cuttack, PIN - 225001",ABCDE1234F,20.400792,85.875533,True,True,2024-25
+K-MYS-2024-0367,KA-02,Mysuru,Karnataka,MP Chandresh Gopal,sanitation,531073,531073,531073,2024-01-26,2024-03-05,completed,District Rural Development Agency (DRDA),Apex Civil Enterprises,REG-MH-109,"38/610
+Agarwal Path, Mysuru, PIN - 411001",APXCE7711Z,12.258976,76.66111,False,False,2024-25
+MP-IND-2024-0368,MP-02,Indore,Madhya Pradesh,MP Sanaya Chhabra,road,1147034,1090194,1009459,2024-12-15,2025-07-08,completed,Zila Parishad Engineering Division,"Wadhwa, Om and D’Alia Builders",REG-899,"H.No. 277, Ray Street, Indore, PIN - 793414",HYKVM7092C,22.782793,75.846265,True,True,2024-25
+M-NAS-2024-0369,MH-03,Nashik,Maharashtra,MP Zayyan Parsa,community_hall,2022559,1889345,1869276,2024-06-23,2024-12-29,completed,Public Works Department (PWD),Nagy and Sons Builders,REG-355,"04/498
+Parmar Chowk, Nashik, PIN - 237253",RXWXU2864R,20.033136,73.802358,True,True,2024-25
+R-JOD-2023-0370,RJ-02,Jodhpur,Rajasthan,MP Mahika Palla,road,497217,497217,497217,2023-08-05,2024-01-05,completed,Public Works Department (PWD),M/s Maa Durga Infrastructure,REG-BR-442,"363, Bava Zila, Jodhpur, PIN - 800001",MDUIN9988K,26.274466,73.102418,True,True,2023-24
+MP-JAB-2023-0371,MP-03,Jabalpur,Madhya Pradesh,MP Nachiket Jhaveri,community_hall,2902425,2550284,2468580,2023-10-13,2024-06-13,completed,Zila Parishad Engineering Division,Date-Saha Builders,REG-308,"H.No. 26
+Contractor Zila, Jabalpur, PIN - 498712",JNJGN4094K,23.231705,79.908991,True,True,2023-24
+MP-JAB-2024-0372,MP-03,Jabalpur,Madhya Pradesh,MP Ishaan Varkey,water,750617,650790,597152,2024-09-14,,ongoing,Municipal Corporation Engineering Cell,Pingle-Palla Builders,REG-571,"H.No. 12, Dar Circle, Jabalpur, PIN - 286405",JVMRR2896P,23.129803,80.001583,False,False,2024-25
+G-RAJ-2023-0373,GJ-04,Rajkot,Gujarat,MP Gautam Bava,solar,544514,544514,544514,2023-02-26,2023-06-02,completed,Municipal Corporation Engineering Cell,Royal Highway Builders,REG-RJ-551,"H.No. 224
+Jayaraman Path, Rajkot, PIN - 302001",RYHB8822P,22.343891,70.822012,False,False,2023-24
+WB-MUR-2023-0374,WB-04,Murshidabad,West Bengal,MP Veer Choudhury,solar,516915,499614,477210,2023-11-10,2024-02-20,completed,Zila Parishad Engineering Division,Gade-Kota Builders,REG-700,"318, Subramaniam Ganj, Murshidabad, PIN - 698866",YRMCC4731B,24.232915,88.352288,True,True,2023-24
+O-PUR-2023-0375,OD-03,Puri,Odisha,MP Zehaan Kumer,drainage,1441740,1441740,1441740,2023-06-26,2023-11-26,completed,District Rural Development Agency (DRDA),M/s Maa Durga Infrastructure,REG-BR-442,"34/969
+Venkataraman Marg, Puri, PIN - 800001",MDUIN9988K,19.734165,85.896649,False,False,2023-24
+T-NIZ-2024-0376,TS-03,Nizamabad,Telangana,MP Tanvi Wali,water,640488,567648,566143,2024-06-06,2025-01-03,completed,Municipal Corporation Engineering Cell,Dugar-Wali Builders,REG-902,"15
+Chadha Marg, Nizamabad, PIN - 582436",BLVIT9370I,18.725068,78.142313,True,True,2024-25
+R-JOD-2023-0377,RJ-02,Jodhpur,Rajasthan,MP Frado Bhandari,solar,1080000,1080000,1058400,2023-07-08,,ongoing,Zila Parishad Engineering Division,Royal Highway Builders,REG-RJ-551,"357
+Tara Street, Jodhpur, PIN - 302001",RYHB8822P,26.292874,72.969749,False,False,2023-24
+UP-BAR-2023-0378,UP-03,Barabanki,Uttar Pradesh,MP Dalbir Mammen,community_hall,1197179,1031747,968026,2023-01-20,2023-08-30,completed,Public Works Department (PWD),"Rama, Thaker and Chaudhari Builders",REG-978,"H.No. 03
+Bose Street, Barabanki, PIN - 275657",POMIR0074D,26.948714,81.228714,True,True,2023-24
+T-WAR-2024-0379,TS-02,Warangal,Telangana,MP Joshua Doshi,sanitation,463295,463295,463295,2024-05-22,2024-08-01,completed,District Rural Development Agency (DRDA),Apex Civil Enterprises,REG-MH-109,"44/18, Minhas Zila, Warangal, PIN - 411001",APXCE7711Z,17.906649,79.662452,False,False,2024-25
+B-MUZ-2023-0380,BR-03,Muzaffarpur,Bihar,MP Om Walia,building,2036403,1794469,1633087,2023-02-16,2024-01-19,completed,District Rural Development Agency (DRDA),Parikh-Yohannan Builders,REG-990,"74/066
+Vohra Chowk, Muzaffarpur, PIN - 835309",QGRSU0944Q,26.052672,85.438175,True,True,2023-24
+M-NAS-2024-0381,MH-03,Nashik,Maharashtra,MP Siya Dash,building,2547200,2547200,2547200,2024-01-06,2024-10-09,completed,Municipal Corporation Engineering Cell,Surya Dev Projects Ltd,REG-MP-883,"H.No. 105, Divan Path, Nashik, PIN - 462001",SDPL4433Q,19.994926,73.808041,False,False,2024-25
+O-PUR-2023-0382,OD-03,Puri,Odisha,MP Indali Krish,water,807972,748797,685324,2023-04-20,2023-08-24,completed,Public Works Department (PWD),"Sinha, Rattan and Sethi Builders",REG-146,"269, Bandi Marg, Puri, PIN - 167174",ZNHCF2105I,19.877272,85.75592,True,True,2023-24
+UP-GOR-2024-0383,UP-07,Gorakhpur,Uttar Pradesh,MP Peter Bassi,water,600479,595646,591020,2024-08-24,2025-01-02,completed,Water Supply & Sanitation Board,Brar-Mand Builders,REG-674,"H.No. 679, Bhalla Road, Gorakhpur, PIN - 453939",DJTGJ6364T,26.71226,83.428566,True,True,2024-25
+T-NIZ-2024-0384,TS-03,Nizamabad,Telangana,MP Ranbir Sinha,building,4111574,3998028,3847266,2024-07-15,,stalled,Zila Parishad Engineering Division,"Gulati, Ramachandran and Verma Builders",REG-877,"H.No. 257, Goel Road, Nizamabad, PIN - 143223",CYLGS2809U,18.66119,78.104843,False,False,2024-25
+B-MUZ-2024-0385,BR-03,Muzaffarpur,Bihar,MP Vritti Bala,solar,1080000,1080000,1058400,2024-05-20,2024-09-07,completed,Public Works Department (PWD),National Infra Conclave,REG-DL-990,"924
+Khurana Street, Muzaffarpur, PIN - 110001",NATIN3322R,26.069685,85.336329,True,True,2024-25
+R-BIK-2023-0386,RJ-05,Bikaner,Rajasthan,MP Yashoda Dar,water,818471,783702,722085,2023-06-04,,stalled,Rural Engineering Services (RES),Bhatnagar-Ahluwalia Builders,REG-700,"H.No. 862, Raman Nagar, Bikaner, PIN - 360905",YRTFV2521X,28.086699,73.321762,False,False,2023-24
+A-KAM-2023-0387,AS-01,Kamrup Metropolitan,Assam,MP Dayamai Chana,sanitation,529316,475149,442844,2023-10-21,2023-11-20,completed,Zila Parishad Engineering Division,"Chaudhary, Deep and Biswas Builders",REG-973,"H.No. 01
+Sura Path, Kamrup Metropolitan, PIN - 386807",YDDCO2672U,26.192936,91.735984,True,True,2023-24
+TN-TIR-2024-0388,TN-04,Tiruchirappalli,Tamil Nadu,MP Charvi Bumb,road,987610,987610,987610,2024-01-21,2024-07-27,completed,Municipal Corporation Engineering Cell,National Infra Conclave,REG-DL-990,"H.No. 27, Agarwal Chowk, Tiruchirappalli, PIN - 110001",NATIN3322R,10.716421,78.710055,False,False,2024-25
+UP-LUC-2024-0389,UP-01,Lucknow,Uttar Pradesh,MP Arin Kari,road,893422,893422,893422,2024-02-27,2024-09-09,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"H.No. 08
+Chaudry Chowk, Lucknow, PIN - 411001",APXCE7711Z,26.855732,80.916308,False,False,2024-25
+G-RAJ-2024-0390,GJ-04,Rajkot,Gujarat,MP Ganga Ahluwalia,drainage,610607,528426,487420,2024-11-04,2025-05-12,completed,Water Supply & Sanitation Board,Trivedi Ltd Builders,REG-952,"07/44, Bains, Rajkot, PIN - 271450",USIAK2819U,22.240722,70.773857,True,True,2024-25
+A-DIB-2023-0391,AS-02,Dibrugarh,Assam,MP Agastya Tak,solar,700697,600119,542987,2023-12-28,2024-05-24,completed,Rural Engineering Services (RES),Pillay Group Builders,REG-251,"35/403
+Nori Marg, Dibrugarh, PIN - 797926",GMWBK6164H,27.434996,94.942067,True,True,2023-24
+M-NAG-2024-0392,MH-02,Nagpur,Maharashtra,MP Vyanjana Divan,sanitation,344217,344217,344217,2024-11-15,2024-12-27,completed,Public Works Department (PWD),Apex Civil Enterprises,REG-MH-109,"06/652
+Solanki, Nagpur, PIN - 411001",APXCE7711Z,21.117306,79.125138,False,False,2024-25
+O-KHO-2024-0393,OD-01,Khordha,Odisha,MP Barkha Mani,road,1079317,1036457,954151,2024-09-27,2025-04-25,completed,District Rural Development Agency (DRDA),Pillay Group Builders,REG-251,"16
+Thakkar Circle, Khordha, PIN - 797926",GMWBK6164H,20.256682,85.547443,True,True,2024-25
+A-DIB-2024-0394,AS-02,Dibrugarh,Assam,MP Owen Natarajan,solar,624713,578282,573316,2024-05-23,2024-08-04,completed,Municipal Corporation Engineering Cell,"Bal, Hayer and Wali Builders",REG-486,"H.No. 65, Konda Zila, Dibrugarh, PIN - 816396",DGFQX8071I,27.454492,94.904389,True,True,2024-25
+R-JAI-2023-0395,RJ-01,Jaipur,Rajasthan,MP Bimala Kuruvilla,sanitation,333980,295934,292800,2023-03-15,2023-06-18,completed,Rural Engineering Services (RES),Ramachandran Inc Builders,REG-729,"H.No. 95
+Lad Circle, Jaipur, PIN - 566068",CIHLS1447L,26.836974,75.813202,True,True,2023-24
+MP-IND-2024-0396,MP-02,Indore,Madhya Pradesh,MP Qushi Seshadri,solar,639231,552725,533303,2024-09-11,,ongoing,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"H.No. 77, Kata Path, Indore, PIN - 225001",ABCDE1234F,22.686641,75.842131,False,False,2024-25
+B-GAY-2023-0397,BR-02,Gaya,Bihar,MP Hardik Prabhu,road,1179333,1044670,995793,2023-02-02,2023-09-01,completed,Rural Engineering Services (RES),"Master, Sahota and Patel Builders",REG-613,"H.No. 72
+Pai Road, Gaya, PIN - 268189",NMOUX4863P,24.852616,85.032122,True,True,2023-24
+M-SOL-2023-0398,MH-06,Solapur,Maharashtra,MP Megha Koshy,building,4546991,4365485,3970077,2023-06-21,2023-06-05,completed,Water Supply & Sanitation Board,Apex Civil Enterprises,REG-MH-109,"37/41, Dube Marg, Solapur, PIN - 411001",APXCE7711Z,17.698155,75.96281,False,False,2023-24
+WB-KOL-2023-0399,WB-01,Kolkata,West Bengal,MP Ekiya Mani,building,3571817,3571817,3571817,2023-11-16,2024-09-05,completed,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"31/724, Choudhry Zila, Kolkata, PIN - 800001",MDUIN9988K,22.587641,88.439027,False,False,2023-24
+WB-HOW-2023-0400,WB-02,Howrah,West Bengal,MP Mekhala Tata,road,1200006,1061097,1008376,2023-01-19,2023-07-07,completed,Zila Parishad Engineering Division,Raghavan-Buch Builders,REG-816,"347
+Ratti Street, Howrah, PIN - 378690",BAGVQ2419O,22.531799,88.312223,True,True,2023-24
+R-BIK-2023-0401,RJ-05,Bikaner,Rajasthan,MP Parth Sabharwal,drainage,587589,567716,559595,2023-06-10,,stalled,Water Supply & Sanitation Board,Din-Manne Builders,REG-333,"82, Deol Nagar, Bikaner, PIN - 643541",MNBWE1786D,27.960942,73.341625,False,False,2023-24
+R-UDA-2023-0402,RJ-04,Udaipur,Rajasthan,MP Vrinda Shankar,drainage,393764,355928,346829,2023-04-19,2023-09-11,completed,Water Supply & Sanitation Board,"Ratta, Patla and Buch Builders",REG-782,"44/26
+Mahajan Ganj, Udaipur, PIN - 756467",BADQB1240U,24.607597,73.786972,True,True,2023-24
+B-MUZ-2024-0403,BR-03,Muzaffarpur,Bihar,MP Kashish Chand,community_hall,1731579,1543593,1418650,2024-06-13,,stalled,District Rural Development Agency (DRDA),"Joshi, Pillay and Natarajan Builders",REG-681,"H.No. 595, Chowdhury Marg, Muzaffarpur, PIN - 700984",YZEGI7357L,26.153194,85.418167,False,False,2024-25
+UP-BAR-2023-0404,UP-03,Barabanki,Uttar Pradesh,MP Hardik Toor,drainage,1833679,1730203,1672123,2023-08-22,2024-03-04,completed,District Rural Development Agency (DRDA),"Minhas, Nori and Sur Builders",REG-328,"H.No. 079
+Dutt, Barabanki, PIN - 650828",KIKSH0359F,26.893322,81.232266,True,True,2023-24
+UP-BAR-2024-0405,UP-03,Barabanki,Uttar Pradesh,MP Charvi Chandra,drainage,1200920,1200920,1200920,2024-11-27,2025-05-18,completed,Zila Parishad Engineering Division,National Infra Conclave,REG-DL-990,"326
+Hari Path, Barabanki, PIN - 110001",NATIN3322R,26.872006,81.118061,False,False,2024-25
+M-AUR-2023-0406,MH-05,Aurangabad,Maharashtra,MP Jeet Shukla,drainage,1339865,1188874,1150651,2023-05-08,,ongoing,Zila Parishad Engineering Division,Gola-Ravi Builders,REG-858,"26/15
+Chahal Zila, Aurangabad, PIN - 365761",LSIHV1866F,19.860058,75.407966,False,False,2023-24
+A-KAM-2023-0407,AS-01,Kamrup Metropolitan,Assam,MP Thomas Mall,solar,676964,631703,587550,2023-11-25,2024-02-28,completed,Municipal Corporation Engineering Cell,"Kata, Dhingra and Rattan Builders",REG-788,"65
+Bandi Path, Kamrup Metropolitan, PIN - 603446",MCKLG5025U,26.155166,91.756731,True,True,2023-24
+G-RAJ-2024-0408,GJ-04,Rajkot,Gujarat,MP Bhanumati Pingle,water,891713,812830,733796,2024-08-12,,stalled,Public Works Department (PWD),Bali and Sons Builders,REG-765,"52/43, Madan Marg, Rajkot, PIN - 501559",ENPZY7673V,22.377099,70.789547,False,False,2024-25
+TN-COI-2024-0409,TN-02,Coimbatore,Tamil Nadu,MP Varsha Sodhi,solar,535660,509151,481799,2024-01-25,,stalled,Zila Parishad Engineering Division,Tata Ltd Builders,REG-810,"71/578
+Subramanian Nagar, Coimbatore, PIN - 248595",AMDFR0689N,11.071072,76.889345,False,False,2024-25
+WB-HOW-2024-0410,WB-02,Howrah,West Bengal,MP Oviya Rama,community_hall,1602760,1602760,1602760,2024-01-04,2024-08-28,completed,Rural Engineering Services (RES),National Infra Conclave,REG-DL-990,"08/855
+Singhal Chowk, Howrah, PIN - 110001",NATIN3322R,22.538864,88.302068,False,False,2024-25
+K-MAN-2023-0411,KA-04,Mangaluru,Karnataka,MP Leena Chokshi,sanitation,493287,493287,493287,2023-05-21,2023-06-20,completed,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"84
+Soman Path, Mangaluru, PIN - 302001",RYHB8822P,12.844843,74.800484,True,True,2023-24
+MP-IND-2023-0412,MP-02,Indore,Madhya Pradesh,MP Ikbal Sundaram,road,1526051,1526051,1526051,2023-05-13,2023-10-20,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"222
+Chaudhary Path, Indore, PIN - 225001",ABCDE1234F,22.77709,75.876445,False,False,2023-24
+M-THA-2023-0413,MH-04,Thane,Maharashtra,MP Reva Pandya,building,2495057,2299004,2135783,2023-03-17,2024-01-09,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"89/177, Kala Nagar, Thane, PIN - 225001",ABCDE1234F,19.197074,72.942129,True,True,2023-24
+WB-KOL-2024-0414,WB-01,Kolkata,West Bengal,MP Wriddhish Barman,road,2780000,2780000,2724400,2024-01-19,2024-07-02,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"563
+Bera Path, Kolkata, PIN - 800001",MDUIN9988K,22.646647,88.358765,True,True,2024-25
+R-UDA-2023-0415,RJ-04,Udaipur,Rajasthan,MP Nihal Char,solar,571787,500985,458471,2023-06-23,,stalled,Public Works Department (PWD),Bhatia-Sha Builders,REG-525,"57
+Krishnamurthy Chowk, Udaipur, PIN - 846038",RQYJF9449L,24.578917,73.769886,False,False,2023-24
+G-AHM-2024-0416,GJ-01,Ahmedabad,Gujarat,MP Faras Dhingra,drainage,497007,497007,497007,2024-08-20,,stalled,Municipal Corporation Engineering Cell,M/s Maa Durga Infrastructure,REG-BR-442,"210, Oak Circle, Ahmedabad, PIN - 800001",MDUIN9988K,22.963208,72.543252,False,False,2024-25
+B-PAT-2023-0417,BR-01,Patna,Bihar,MP Aarini Bhatt,road,1599771,1595290,1564749,2023-08-22,2023-07-09,completed,Rural Engineering Services (RES),Apex Civil Enterprises,REG-MH-109,"H.No. 99
+Pillai Path, Patna, PIN - 411001",APXCE7711Z,25.658067,85.08544,True,True,2023-24
+UP-MEE-2023-0418,UP-09,Meerut,Uttar Pradesh,MP Warjas Kaur,road,1901249,1624463,1490293,2023-08-25,2024-01-22,completed,Municipal Corporation Engineering Cell,"Kant, Nanda and Lalla Builders",REG-848,"70/076
+Ghose Ganj, Meerut, PIN - 590718",KTSWL4588C,28.964921,77.784619,True,True,2023-24
+O-PUR-2024-0419,OD-03,Puri,Odisha,MP Qabil Pal,building,3171355,2707184,2696309,2024-09-26,2025-07-26,completed,District Rural Development Agency (DRDA),"Tailor, Bir and Manne Builders",REG-320,"497, Parmar Street, Puri, PIN - 504468",XJEDR0790Q,19.738818,85.77369,True,True,2024-25
+O-CUT-2024-0420,OD-02,Cuttack,Odisha,MP Vedika Goswami,community_hall,4420000,4420000,4331600,2024-04-27,,stalled,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"91/617
+Solanki Ganj, Cuttack, PIN - 225001",ABCDE1234F,20.510755,85.87302,False,False,2024-25
+M-PUN-2024-0421,MH-01,Pune,Maharashtra,MP Kavya Mand,sanitation,770000,770000,754600,2024-02-04,2024-03-25,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"57
+Hayre, Pune, PIN - 462001",SDPL4433Q,18.502868,73.833965,True,True,2024-25
+B-GAY-2024-0422,BR-02,Gaya,Bihar,MP Hema Saxena,sanitation,503887,436684,413582,2024-07-20,2024-10-31,completed,Public Works Department (PWD),"Iyer, Gupta and Bobal Builders",REG-584,"H.No. 61
+Peri, Gaya, PIN - 364801",BAINH4578S,24.716564,84.987625,True,True,2024-25
+T-HYD-2023-0423,TS-01,Hyderabad,Telangana,MP Hemang Chakrabarti,community_hall,3145256,3100117,3008071,2023-04-16,2024-02-15,completed,Municipal Corporation Engineering Cell,"Shere, Konda and Cherian Builders",REG-583,"24
+Raval Ganj, Hyderabad, PIN - 143276",SKVTP0309C,17.461969,78.558685,True,True,2023-24
+O-CUT-2023-0424,OD-02,Cuttack,Odisha,MP Pranit Karpe,road,1472304,1346756,1252943,2023-01-16,2023-06-01,completed,Public Works Department (PWD),Garg Ltd Builders,REG-405,"40/669
+Sethi Zila, Cuttack, PIN - 779987",CLLYW2519U,20.531499,85.807017,True,True,2023-24
+UP-KAN-2024-0425,UP-04,Kanpur Nagar,Uttar Pradesh,MP Yadavi Master,drainage,2160000,2160000,2116800,2024-12-05,,stalled,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"H.No. 78, Sathe Chowk, Kanpur Nagar, PIN - 225001",ABCDE1234F,26.426186,80.3068,False,False,2024-25
+B-PAT-2023-0426,BR-01,Patna,Bihar,MP Agastya Dave,drainage,660808,569280,519565,2023-01-28,2023-06-16,completed,Water Supply & Sanitation Board,"Pandya, Loyal and Taneja Builders",REG-701,"23/522, Rout Marg, Patna, PIN - 300802",VBZQL6387U,25.521095,85.113547,True,True,2023-24
+G-SUR-2023-0427,GJ-02,Surat,Gujarat,MP Alexander Sridhar,road,2101349,2042540,2021632,2023-05-18,2023-11-26,completed,Municipal Corporation Engineering Cell,Vala-Bobal Builders,REG-373,"22/816
+Venkataraman Zila, Surat, PIN - 649403",UVUON5192S,21.204301,72.901728,True,True,2023-24
+WB-MUR-2023-0428,WB-04,Murshidabad,West Bengal,MP Luke Saran,road,963803,963803,963803,2023-06-14,2023-11-29,completed,Public Works Department (PWD),National Infra Conclave,REG-DL-990,"43
+Dave Path, Murshidabad, PIN - 110001",NATIN3322R,24.132786,88.318905,False,False,2023-24
+A-DIB-2023-0429,AS-02,Dibrugarh,Assam,MP Aarnav Gokhale,sanitation,770000,770000,754600,2023-01-08,,ongoing,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"H.No. 786
+Bains Zila, Dibrugarh, PIN - 411001",APXCE7711Z,27.436048,94.926118,False,False,2023-24
+K-DHA-2024-0430,KA-03,Dharwad,Karnataka,MP Yahvi Banerjee,drainage,1418636,1253602,1175794,2024-01-28,,ongoing,Municipal Corporation Engineering Cell,Datta-Contractor Builders,REG-455,"259, Andra Circle, Dharwad, PIN - 445039",APXZF5917H,15.387262,74.976624,False,False,2024-25
+A-SIL-2023-0431,AS-03,Silchar,Assam,MP Sneha Goda,water,524420,513858,502687,2023-01-11,2023-05-04,completed,Water Supply & Sanitation Board,Chaudhary-Bajaj Builders,REG-195,"69, Som Chowk, Silchar, PIN - 418528",NEGKO2474A,24.841827,92.851296,True,True,2023-24
+T-WAR-2024-0432,TS-02,Warangal,Telangana,MP Lavanya Rai,solar,695786,616281,610593,2024-03-13,2024-02-20,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"H.No. 271
+Deshmukh Marg, Warangal, PIN - 411001",APXCE7711Z,17.902586,79.554089,True,True,2024-25
+B-BHA-2024-0433,BR-04,Bhagalpur,Bihar,MP Oeshi Lalla,community_hall,2406317,2156142,2083000,2024-11-26,2025-07-24,completed,District Rural Development Agency (DRDA),Sahota and Sons Builders,REG-802,"H.No. 11
+Batta Road, Bhagalpur, PIN - 495178",CMKYA3498D,25.233509,86.906963,True,True,2024-25
+UP-KAN-2023-0434,UP-04,Kanpur Nagar,Uttar Pradesh,MP Dakshesh Parikh,solar,482049,441588,408822,2023-05-20,2023-06-19,completed,Water Supply & Sanitation Board,"Dyal, Pathak and Kurian Builders",REG-164,"H.No. 657, Lata Path, Kanpur Nagar, PIN - 589911",DJIQV6941E,26.508949,80.272256,True,True,2023-24
+M-THA-2024-0435,MH-04,Thane,Maharashtra,MP Ekani Luthra,community_hall,4420000,4420000,4331600,2024-10-11,2025-07-24,completed,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"14, Naidu Zila, Thane, PIN - 800001",MDUIN9988K,19.140879,73.033289,True,True,2024-25
+R-UDA-2023-0436,RJ-04,Udaipur,Rajasthan,MP Avi Sawhney,road,1604832,1604832,1604832,2023-09-15,2024-03-22,completed,Public Works Department (PWD),Surya Dev Projects Ltd,REG-MP-883,"05, Bhatnagar Marg, Udaipur, PIN - 462001",SDPL4433Q,24.608102,73.772637,False,False,2023-24
+T-NIZ-2024-0437,TS-03,Nizamabad,Telangana,MP Om Pillay,water,1138574,1138574,1138574,2024-07-21,2024-09-28,completed,Municipal Corporation Engineering Cell,Surya Dev Projects Ltd,REG-MP-883,"70/03, Kant Ganj, Nizamabad, PIN - 462001",SDPL4433Q,18.63904,78.03811,False,False,2024-25
+M-SOL-2024-0438,MH-06,Solapur,Maharashtra,MP Umang Zacharia,sanitation,333100,312188,291710,2024-09-23,2024-11-28,completed,Water Supply & Sanitation Board,"Ratta, Patla and Buch Builders",REG-782,"366, Sengupta Chowk, Solapur, PIN - 756467",BADQB1240U,17.712816,75.831616,True,True,2024-25
+B-PAT-2024-0439,BR-01,Patna,Bihar,MP Jacob Kalita,solar,812565,787969,757009,2024-09-24,,stalled,Municipal Corporation Engineering Cell,"Joshi, Pillay and Natarajan Builders",REG-681,"17/225
+Sarin Path, Patna, PIN - 700984",YZEGI7357L,25.584663,85.100669,False,False,2024-25
+WB-KOL-2023-0440,WB-01,Kolkata,West Bengal,MP Henry Sagar,water,970314,884430,803035,2023-12-08,,stalled,Rural Engineering Services (RES),"Chakrabarti, Borra and Tata Builders",REG-912,"858
+Dhingra Path, Kolkata, PIN - 256583",RGZAK4724Z,22.504831,88.341868,False,False,2023-24
+M-PUN-2023-0441,MH-01,Pune,Maharashtra,MP Widisha Sha,solar,558473,496505,461098,2023-07-22,2023-10-05,completed,Public Works Department (PWD),"Krishna, Mittal and Das Builders",REG-187,"854, Chawla Path, Pune, PIN - 370247",YMVKB6015J,18.453441,73.844064,True,True,2023-24
+UP-BAR-2023-0442,UP-03,Barabanki,Uttar Pradesh,MP Udant Choudhry,building,2244796,2244796,2244796,2023-07-09,2024-05-08,completed,District Rural Development Agency (DRDA),Surya Dev Projects Ltd,REG-MP-883,"272
+Agarwal Path, Barabanki, PIN - 462001",SDPL4433Q,26.851029,81.13101,False,False,2023-24
+MP-BHO-2024-0443,MP-01,Bhopal,Madhya Pradesh,MP Omkaar Mukhopadhyay,drainage,989262,884408,825754,2024-03-13,2024-08-02,completed,Water Supply & Sanitation Board,Chaudhary-Bajaj Builders,REG-195,"H.No. 00, Dhillon Road, Bhopal, PIN - 418528",NEGKO2474A,23.338961,77.339838,True,True,2024-25
+MP-GWA-2024-0444,MP-04,Gwalior,Madhya Pradesh,MP Udant Balan,water,480948,451337,443217,2024-12-05,,stalled,Municipal Corporation Engineering Cell,Bhargava-Rama Builders,REG-524,"H.No. 270, Kohli Street, Gwalior, PIN - 537398",CHHIO1267C,26.162661,78.104045,False,False,2024-25
+K-BEN-2023-0445,KA-01,Bengaluru Urban,Karnataka,MP Max Verma,water,1440000,1440000,1411200,2023-04-10,,stalled,Public Works Department (PWD),National Infra Conclave,REG-DL-990,"732
+Pillai Ganj, Bengaluru Urban, PIN - 110001",NATIN3322R,12.937241,77.576051,False,False,2023-24
+O-CUT-2024-0446,OD-02,Cuttack,Odisha,MP Ubika Naik,building,2997007,2592171,2406776,2024-09-09,2025-05-30,completed,Public Works Department (PWD),"Sampath, Aurora and Nagy Builders",REG-889,"H.No. 74, Barad, Cuttack, PIN - 714788",ERSPV5800U,20.426316,85.873027,True,True,2024-25
+G-SUR-2023-0447,GJ-02,Surat,Gujarat,MP Aarna Mammen,water,1440000,1440000,1411200,2023-02-07,2023-05-04,completed,Rural Engineering Services (RES),M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 85
+Bawa Path, Surat, PIN - 800001",MDUIN9988K,21.176267,72.782321,True,True,2023-24
+B-DAR-2024-0448,BR-05,Darbhanga,Bihar,MP Libni Grewal,solar,562971,503431,458606,2024-12-15,2025-01-17,completed,District Rural Development Agency (DRDA),Vala-Bobal Builders,REG-373,"H.No. 015, Choudhury Chowk, Darbhanga, PIN - 649403",UVUON5192S,26.216421,85.890721,True,True,2024-25
+UP-GOR-2023-0449,UP-07,Gorakhpur,Uttar Pradesh,MP Gautam Badal,community_hall,3131509,2791477,2688366,2023-12-03,,stalled,District Rural Development Agency (DRDA),"Sibal, Kaur and Bhalla Builders",REG-125,"579
+Gokhale, Gorakhpur, PIN - 158458",RHRQC9238E,26.79369,83.34357,False,False,2023-24
+G-SUR-2023-0450,GJ-02,Surat,Gujarat,MP Urvi Sundaram,sanitation,452716,410355,408022,2023-11-21,2024-02-05,completed,Public Works Department (PWD),"Joshi, Dutt and Narain Builders",REG-400,"H.No. 00, Sekhon Circle, Surat, PIN - 446814",MMYNU7068R,21.165418,72.828621,True,True,2023-24
+O-CUT-2023-0451,OD-02,Cuttack,Odisha,MP Nisha Sen,community_hall,2814348,2480234,2276387,2023-01-14,,ongoing,Public Works Department (PWD),"Kala, Sarraf and Gola Builders",REG-447,"01
+Anne Chowk, Cuttack, PIN - 305892",EJUWI1387M,20.480641,85.903764,False,False,2023-24
+B-PAT-2024-0452,BR-01,Patna,Bihar,MP Chandran Ghose,water,603183,561872,522283,2024-08-26,2024-11-26,completed,Zila Parishad Engineering Division,Sarna-Randhawa Builders,REG-841,"78
+Samra Ganj, Patna, PIN - 728226",HFSIT9617I,25.668167,85.201091,True,True,2024-25
+R-JOD-2023-0453,RJ-02,Jodhpur,Rajasthan,MP Andrew Bakshi,community_hall,2687664,2640161,2597950,2023-06-23,,ongoing,Zila Parishad Engineering Division,"Bajaj, Balan and Sen Builders",REG-611,"H.No. 001, Srivastava, Jodhpur, PIN - 255939",ASYFU8087V,26.268856,72.948934,False,False,2023-24
+B-MUZ-2024-0454,BR-03,Muzaffarpur,Bihar,MP Januja Dave,community_hall,1911518,1699540,1538871,2024-07-13,,ongoing,Zila Parishad Engineering Division,Dalal-Chandran Builders,REG-693,"H.No. 220
+Chopra Chowk, Muzaffarpur, PIN - 580711",DFPTR1747Y,26.095275,85.415664,False,False,2024-25
+UP-MEE-2024-0455,UP-09,Meerut,Uttar Pradesh,MP Bimala Walla,solar,509125,509125,509125,2024-03-20,2024-04-19,completed,Water Supply & Sanitation Board,M/s Maa Durga Infrastructure,REG-BR-442,"H.No. 982, Singh Nagar, Meerut, PIN - 800001",MDUIN9988K,29.027195,77.714863,False,False,2024-25
+R-BIK-2023-0456,RJ-05,Bikaner,Rajasthan,MP Zarna Narula,solar,1080000,1080000,1058400,2023-03-27,2023-04-28,completed,Public Works Department (PWD),Shree Ram Construction,REG-UP-001,"H.No. 32
+Dayal Marg, Bikaner, PIN - 225001",ABCDE1234F,28.009043,73.320372,True,True,2023-24
+T-HYD-2023-0457,TS-01,Hyderabad,Telangana,MP Odika Korpal,solar,557385,497445,448906,2023-09-13,2023-12-14,completed,Rural Engineering Services (RES),"Madan, Chowdhury and Dixit Builders",REG-553,"77/64, Doctor, Hyderabad, PIN - 687057",KIWGE4422C,17.348593,78.426483,True,True,2023-24
+UP-PRA-2024-0458,UP-06,Prayagraj,Uttar Pradesh,MP Zaid Chadha,solar,412822,407804,370920,2024-01-01,,stalled,Zila Parishad Engineering Division,Prabhakar-Munshi Builders,REG-863,"33, Reddy Circle, Prayagraj, PIN - 472659",GVKXI7197Q,25.386885,81.863211,False,False,2024-25
+UP-AGR-2024-0459,UP-08,Agra,Uttar Pradesh,MP Joshua Bala,water,860752,784101,727532,2024-07-10,2024-10-18,completed,Rural Engineering Services (RES),"Balakrishnan, Dhar and Chaudhry Builders",REG-458,"H.No. 88
+Gade Chowk, Agra, PIN - 379125",EXCSQ8422C,27.177755,77.989285,True,True,2024-25
+TN-TIR-2024-0460,TN-04,Tiruchirappalli,Tamil Nadu,MP Om Kaur,road,2780000,2780000,2724400,2024-04-15,2024-09-15,completed,Rural Engineering Services (RES),Royal Highway Builders,REG-RJ-551,"692
+Wason Ganj, Tiruchirappalli, PIN - 302001",RYHB8822P,10.800242,78.657929,True,True,2024-25
+K-DHA-2024-0461,KA-03,Dharwad,Karnataka,MP Udarsh Sheth,sanitation,496311,496311,496311,2024-09-24,,ongoing,District Rural Development Agency (DRDA),M/s Maa Durga Infrastructure,REG-BR-442,"923
+Pai Path, Dharwad, PIN - 800001",MDUIN9988K,15.497382,75.061292,False,False,2024-25
+T-HYD-2024-0462,TS-01,Hyderabad,Telangana,MP Damini Narang,solar,801085,719595,698645,2024-09-16,2024-09-03,completed,District Rural Development Agency (DRDA),Shree Ram Construction,REG-UP-001,"H.No. 31
+Zachariah Chowk, Hyderabad, PIN - 225001",ABCDE1234F,17.442384,78.565541,False,False,2024-25
+M-NAS-2023-0463,MH-03,Nashik,Maharashtra,MP Sudiksha Kunda,solar,1080000,1080000,1058400,2023-03-07,2023-04-06,completed,Municipal Corporation Engineering Cell,Shree Ram Construction,REG-UP-001,"57
+Varkey Path, Nashik, PIN - 225001",ABCDE1234F,19.995451,73.829639,True,True,2023-24
+MP-GWA-2024-0464,MP-04,Gwalior,Madhya Pradesh,MP Avi Pillay,water,672410,637130,582433,2024-09-11,,stalled,Zila Parishad Engineering Division,"Tailor, Bir and Manne Builders",REG-320,"63, Basu Circle, Gwalior, PIN - 504468",XJEDR0790Q,26.26675,78.255119,False,False,2024-25
+O-CUT-2023-0465,OD-02,Cuttack,Odisha,MP Victor Chacko,sanitation,339384,304649,279644,2023-03-17,,ongoing,Water Supply & Sanitation Board,Shree Ram Construction,REG-UP-001,"382, Mangal Road, Cuttack, PIN - 225001",ABCDE1234F,20.54143,85.803696,False,False,2023-24
+WB-KOL-2023-0466,WB-01,Kolkata,West Bengal,MP Isaiah Tata,solar,365033,329166,296714,2023-02-12,2023-04-02,completed,Rural Engineering Services (RES),Bir Ltd Builders,REG-562,"H.No. 738, Deshpande Circle, Kolkata, PIN - 291043",DUSFP6921C,22.53807,88.429742,True,True,2023-24
+TN-COI-2023-0467,TN-02,Coimbatore,Tamil Nadu,MP Kashvi Sinha,community_hall,3294837,2938987,2722365,2023-02-19,2023-11-13,completed,Rural Engineering Services (RES),Mahajan-Saran Builders,REG-414,"H.No. 00, Hayer, Coimbatore, PIN - 733948",PUFCF1210Z,11.064302,76.969771,True,True,2023-24
+K-DHA-2024-0468,KA-03,Dharwad,Karnataka,MP Yashawini Dass,community_hall,2507312,2212618,2197029,2024-04-06,2024-02-29,completed,District Rural Development Agency (DRDA),Royal Highway Builders,REG-RJ-551,"132
+Walia Ganj, Dharwad, PIN - 302001",RYHB8822P,15.401833,75.003874,False,False,2024-25
+MP-GWA-2024-0469,MP-04,Gwalior,Madhya Pradesh,MP Vedant Cherian,community_hall,2499293,2334394,2189033,2024-06-10,,ongoing,Zila Parishad Engineering Division,"Sule, Tara and Dutt Builders",REG-649,"93/600
+Chaudry Road, Gwalior, PIN - 673772",FXYKH7744U,26.195099,78.236984,False,False,2024-25
+A-SIL-2023-0470,AS-03,Silchar,Assam,MP Utkarsh Mangat,water,910504,808145,737047,2023-07-18,,ongoing,Rural Engineering Services (RES),Goda LLC Builders,REG-484,"45/30, Sampath Road, Silchar, PIN - 194148",HEDQS9384M,24.781782,92.837482,False,False,2023-24
+M-AUR-2024-0471,MH-05,Aurangabad,Maharashtra,MP Warhi Rastogi,drainage,2160000,2160000,2116800,2024-03-24,,stalled,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"H.No. 487, Halder Circle, Aurangabad, PIN - 411001",APXCE7711Z,19.848752,75.409067,False,False,2024-25
+UP-VAR-2024-0472,UP-05,Varanasi,Uttar Pradesh,MP Banjeet Chandra,community_hall,3682324,3518974,3263557,2024-11-16,2025-04-25,completed,Rural Engineering Services (RES),"Wadhwa, Kibe and Bedi Builders",REG-866,"59/033
+Rama Chowk, Varanasi, PIN - 832312",XRGML9453I,25.369332,83.03201,True,True,2024-25
+T-HYD-2023-0473,TS-01,Hyderabad,Telangana,MP Bishakha Thaman,solar,657298,573807,558669,2023-01-12,2023-06-13,completed,District Rural Development Agency (DRDA),Bhargava-Rama Builders,REG-524,"H.No. 742
+Lalla Circle, Hyderabad, PIN - 537398",CHHIO1267C,17.372132,78.542029,True,True,2023-24
+M-AUR-2023-0474,MH-05,Aurangabad,Maharashtra,MP Jairaj Dubey,community_hall,1364836,1343900,1232250,2023-06-27,2023-06-10,completed,Rural Engineering Services (RES),Surya Dev Projects Ltd,REG-MP-883,"H.No. 409
+Hora Ganj, Aurangabad, PIN - 462001",SDPL4433Q,19.878814,75.413787,False,False,2023-24
+M-NAG-2024-0475,MH-02,Nagpur,Maharashtra,MP Omkaar Chandran,community_hall,2667731,2347076,2231005,2024-02-06,2024-09-10,completed,District Rural Development Agency (DRDA),"Shukla, Peri and Narain Builders",REG-925,"268
+Dara Path, Nagpur, PIN - 277414",GPOSS4428Y,21.115586,79.09789,True,True,2024-25
+UP-MEE-2023-0476,UP-09,Meerut,Uttar Pradesh,MP Prisha Mandal,road,1991860,1981631,1935404,2023-12-03,2024-06-15,completed,Water Supply & Sanitation Board,Vohra PLC Builders,REG-341,"H.No. 98, Barman Circle, Meerut, PIN - 217798",IENCN9378E,29.006571,77.700056,True,True,2023-24
+O-PUR-2023-0477,OD-03,Puri,Odisha,MP Yasti Kapur,sanitation,506573,451784,432133,2023-05-02,,ongoing,Public Works Department (PWD),"Master, Sahota and Patel Builders",REG-613,"H.No. 76
+Shroff Chowk, Puri, PIN - 268189",NMOUX4863P,19.867144,85.794848,False,False,2023-24
+K-BEN-2024-0478,KA-01,Bengaluru Urban,Karnataka,MP Daksh Golla,water,887824,865414,782051,2024-11-17,,stalled,Water Supply & Sanitation Board,Dara-Rai Builders,REG-978,"857
+Sekhon Street, Bengaluru Urban, PIN - 209994",CJOBA1447S,12.916513,77.605594,False,False,2024-25
+WB-MUR-2024-0479,WB-04,Murshidabad,West Bengal,MP Orinder Palan,solar,485315,446564,403311,2024-02-17,2024-05-20,completed,Public Works Department (PWD),"Palan, Tak and Gade Builders",REG-698,"94/69, Kamdar Ganj, Murshidabad, PIN - 354068",KEIFX7095Y,24.201233,88.230028,True,True,2024-25
+R-JOD-2023-0480,RJ-02,Jodhpur,Rajasthan,MP Yachana Devan,community_hall,2444701,2232528,2084000,2023-11-12,2024-07-11,completed,Rural Engineering Services (RES),Dutt-Chander Builders,REG-470,"H.No. 562
+Anne Street, Jodhpur, PIN - 648169",UGIEB7574Y,26.305004,72.993304,True,True,2023-24
+G-RAJ-2024-0481,GJ-04,Rajkot,Gujarat,MP Geetika Nanda,drainage,1680561,1579964,1498209,2024-08-27,,ongoing,Public Works Department (PWD),Deep-Shan Builders,REG-299,"016
+Viswanathan Nagar, Rajkot, PIN - 490133",HACDG3400R,22.230321,70.870838,False,False,2024-25
+TN-TIR-2023-0482,TN-04,Tiruchirappalli,Tamil Nadu,MP Bachittar Sagar,drainage,1419464,1419464,1419464,2023-03-17,2023-08-26,completed,Public Works Department (PWD),Apex Civil Enterprises,REG-MH-109,"87/630, Sahota Street, Tiruchirappalli, PIN - 411001",APXCE7711Z,10.862739,78.715578,False,False,2023-24
+T-NIZ-2023-0483,TS-03,Nizamabad,Telangana,MP Nirja Pingle,road,784238,784238,784238,2023-05-26,2023-11-27,completed,Zila Parishad Engineering Division,M/s Maa Durga Infrastructure,REG-BR-442,"72, Verma Road, Nizamabad, PIN - 800001",MDUIN9988K,18.624565,78.041631,False,False,2023-24
+M-SOL-2023-0484,MH-06,Solapur,Maharashtra,MP Faraj Swamy,drainage,1514733,1463749,1318097,2023-12-08,2024-05-27,completed,Rural Engineering Services (RES),Srivastava Group Builders,REG-788,"50/762
+Hans Circle, Solapur, PIN - 433139",FPCNV4540O,17.595886,75.914373,True,True,2023-24
+T-HYD-2024-0485,TS-01,Hyderabad,Telangana,MP Alka Sahni,road,1286561,1242803,1230129,2024-03-11,,ongoing,Water Supply & Sanitation Board,Dugar-Wali Builders,REG-902,"H.No. 63
+Mander Circle, Hyderabad, PIN - 582436",BLVIT9370I,17.390458,78.462199,False,False,2024-25
+R-BIK-2024-0486,RJ-05,Bikaner,Rajasthan,MP Alka Sarin,water,802704,730241,662859,2024-09-27,2025-03-06,completed,Zila Parishad Engineering Division,Sandal-Ramakrishnan Builders,REG-745,"H.No. 688, Sani Nagar, Bikaner, PIN - 748448",QMLBG1284A,28.022892,73.23898,True,True,2024-25
+MP-BHO-2024-0487,MP-01,Bhopal,Madhya Pradesh,MP Geetika Jani,community_hall,2338149,2338149,2338149,2024-01-09,2024-10-05,completed,Water Supply & Sanitation Board,Royal Highway Builders,REG-RJ-551,"05/78
+Mandal, Bhopal, PIN - 302001",RYHB8822P,23.308897,77.388006,False,False,2024-25
+A-KAM-2023-0488,AS-01,Kamrup Metropolitan,Assam,MP Krishna Mutti,sanitation,536046,510822,460331,2023-03-11,,ongoing,Zila Parishad Engineering Division,Gola-Ravi Builders,REG-858,"47, Bhandari Zila, Kamrup Metropolitan, PIN - 365761",LSIHV1866F,26.187918,91.704673,False,False,2023-24
+T-WAR-2024-0489,TS-02,Warangal,Telangana,MP Mohammed Sarin,drainage,1321561,1207391,1178366,2024-09-12,2025-02-23,completed,Water Supply & Sanitation Board,"Dayal, Dara and Lal Builders",REG-519,"14/106, Koshy Circle, Warangal, PIN - 796587",ZDZIC8090E,17.890013,79.665812,True,True,2024-25
+UP-KAN-2024-0490,UP-04,Kanpur Nagar,Uttar Pradesh,MP Damyanti Dhawan,drainage,490318,490318,490318,2024-01-04,2024-06-24,completed,District Rural Development Agency (DRDA),Apex Civil Enterprises,REG-MH-109,"91/41
+Bhatt Marg, Kanpur Nagar, PIN - 411001",APXCE7711Z,26.438012,80.359899,True,True,2024-25
+K-MAN-2023-0491,KA-04,Mangaluru,Karnataka,MP Finn Devan,road,1649424,1463524,1329472,2023-06-24,2024-02-06,completed,Rural Engineering Services (RES),Mahajan-Saran Builders,REG-414,"51
+Sekhon Circle, Mangaluru, PIN - 733948",PUFCF1210Z,12.950386,74.877267,True,True,2023-24
+A-SIL-2024-0492,AS-03,Silchar,Assam,MP Ryan Talwar,community_hall,497235,497235,497235,2024-01-03,2024-08-26,completed,Zila Parishad Engineering Division,Apex Civil Enterprises,REG-MH-109,"H.No. 034
+Savant Nagar, Silchar, PIN - 411001",APXCE7711Z,24.835321,92.814964,True,True,2024-25
+O-CUT-2023-0493,OD-02,Cuttack,Odisha,MP Girindra Kanda,community_hall,1748677,1747344,1680172,2023-07-04,,stalled,Municipal Corporation Engineering Cell,Randhawa-Sharma Builders,REG-995,"H.No. 196, Jaggi Path, Cuttack, PIN - 499244",UUNKE1680P,20.493581,85.810613,False,False,2023-24
+B-BHA-2023-0494,BR-04,Bhagalpur,Bihar,MP Bhanumati Doctor,solar,478661,426439,401158,2023-10-13,2024-02-18,completed,Rural Engineering Services (RES),Shree Ram Construction,REG-UP-001,"37/96, Jayaraman Ganj, Bhagalpur, PIN - 225001",ABCDE1234F,25.267654,86.948163,True,True,2023-24
+R-JOD-2023-0495,RJ-02,Jodhpur,Rajasthan,MP Yug Goda,building,2413485,2413485,2413485,2023-10-10,2024-07-30,completed,Municipal Corporation Engineering Cell,Apex Civil Enterprises,REG-MH-109,"91/296
+Bandi Chowk, Jodhpur, PIN - 411001",APXCE7711Z,26.245533,73.020396,False,False,2023-24
+R-JOD-2024-0496,RJ-02,Jodhpur,Rajasthan,MP Indira Ranganathan,water,613626,570571,523214,2024-03-15,,ongoing,Municipal Corporation Engineering Cell,"Jayaraman, Dixit and Dutta Builders",REG-499,"366, Bhatia Chowk, Jodhpur, PIN - 602972",OERNJ9575A,26.22337,73.050012,False,False,2024-25
+TN-CHE-2024-0497,TN-01,Chennai,Tamil Nadu,MP Robert Bose,water,1074754,918307,883857,2024-05-25,2024-09-04,completed,District Rural Development Agency (DRDA),Vohra and Sons Builders,REG-996,"H.No. 144
+Brahmbhatt Circle, Chennai, PIN - 228326",TZMSL3241G,13.093083,80.257163,True,True,2024-25
+TN-COI-2024-0498,TN-02,Coimbatore,Tamil Nadu,MP Upma Nath,building,4062414,3581813,3263258,2024-10-28,2025-09-14,completed,Water Supply & Sanitation Board,Sahota and Sons Builders,REG-802,"88/03, Gara Marg, Coimbatore, PIN - 495178",CMKYA3498D,11.075183,76.9985,True,True,2024-25
+B-BHA-2024-0499,BR-04,Bhagalpur,Bihar,MP Ekta Sahni,water,538421,508790,490280,2024-11-04,,stalled,Rural Engineering Services (RES),"Shukla, Bakshi and Halder Builders",REG-203,"H.No. 33, Warrior Path, Bhagalpur, PIN - 612780",USBLK1483M,25.247701,86.940216,False,False,2024-25
+M-THA-2024-0500,MH-04,Thane,Maharashtra,MP Unnati Doshi,drainage,753741,714869,692232,2024-01-18,2024-07-10,completed,Rural Engineering Services (RES),"Gulati, Ramachandran and Verma Builders",REG-877,"H.No. 489
+Naidu Nagar, Thane, PIN - 143223",CYLGS2809U,19.231125,72.964996,True,True,2024-25
