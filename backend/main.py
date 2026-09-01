@@ -51,21 +51,33 @@ app = FastAPI(
     version="2.1.0"
 )
 
-# Configure CORS Middleware for Local React Frontend
-origins = [
-    "http://127.0.0.1:3000",
-    "http://localhost:3000",
-    "http://127.0.0.1:5173",
-    "http://localhost:5173",
-]
-
+# Configure CORS Middleware for Local & Production Frontends
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+@app.on_event("startup")
+def on_startup():
+    """
+    Auto-initializes database tables and seeds baseline Demo dataset on deployment.
+    """
+    try:
+        from database import engine, SessionLocal, Base
+        from models import Workspace
+        Base.metadata.create_all(bind=engine)
+        db = SessionLocal()
+        try:
+            demo = db.query(Workspace).filter(Workspace.id == "demo-ludhiana").first()
+            if not demo:
+                seed_demo_workspace(db)
+        finally:
+            db.close()
+    except Exception as e:
+        print(f"[STARTUP DB INIT WARNING]: {e}")
 
 # ==================================================
 # HELPER FUNCTIONS
@@ -1647,5 +1659,12 @@ def get_executive_report_pdf(
             "Access-Control-Expose-Headers": "Content-Disposition"
         }
     )
+
+if __name__ == "__main__":
+    import uvicorn
+    import os
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
+
 
 

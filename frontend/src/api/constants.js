@@ -1,6 +1,8 @@
-// API Constants and Domain Mappings (DESIGN.md & PRD.md)
-
-export const BASE_URL = 'http://127.0.0.1:8000';
+export const BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '') || (
+  typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+    ? 'http://127.0.0.1:8000'
+    : ''
+);
 
 export const CATEGORY_OPTIONS = [
   'ALL',
