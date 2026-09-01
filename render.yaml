@@ -12,12 +12,10 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.0
 
-  # Frontend React SPA Static Site
+  # Frontend React SPA Static Site (Static sites are global CDN; region & plan are omitted)
   - type: web
     name: mplad-intelligence-ui
     env: static
-    region: oregon
-    plan: free
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
