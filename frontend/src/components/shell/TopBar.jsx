@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Layers, User, ArrowRightLeft, Database, Activity, Sun, Moon } from 'lucide-react';
+import { Shield, Layers, User, ArrowRightLeft, Database, Activity, Sun, Moon, Globe } from 'lucide-react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useApp } from '../../context/AppContext';
 import { CONSTITUENCY_INFO } from '../../api/constants';
@@ -55,6 +55,30 @@ export const TopBar = () => {
 
       {/* Right: API Connectivity, Theme Switcher & User Role Capsule */}
       <div className="top-header-right">
+        {/* Portal Landing Link */}
+        <button
+          onClick={() => navigate('/')}
+          title="Return to Public Landing Page"
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '6px',
+            background: 'var(--color-surface-elevated)',
+            border: '1px solid var(--color-border-subtle)',
+            borderRadius: 'var(--radius-pill)',
+            padding: '4px 10px',
+            color: 'var(--color-text-secondary)',
+            fontSize: '11px',
+            fontWeight: 600,
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            height: '28px'
+          }}
+        >
+          <Globe size={13} color="#38bdf8" />
+          <span>Landing Page</span>
+        </button>
+
         {/* Global Theme Toggle */}
         <button
           className="theme-toggle-btn"

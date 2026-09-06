@@ -13,9 +13,20 @@ export const AppProvider = ({ children }) => {
     return localStorage.getItem('mplad_theme') || 'dark';
   });
   const [activeWorkspace, setActiveWorkspace] = useState(null);
-  const [lastViewedProjectId, setLastViewedProjectId] = useState(null);
+  const [lastViewedProjectId, setLastViewedProjectIdState] = useState(() => {
+    return localStorage.getItem('mplad_last_viewed_project') || null;
+  });
   const [toastMessage, setToastMessage] = useState(null);
   const [loadingWorkspaces, setLoadingWorkspaces] = useState(true);
+
+  const setLastViewedProjectId = useCallback((id) => {
+    setLastViewedProjectIdState(id);
+    if (id) {
+      localStorage.setItem('mplad_last_viewed_project', id);
+    } else {
+      localStorage.removeItem('mplad_last_viewed_project');
+    }
+  }, []);
 
   // Sync theme attribute on document root and persist
   useEffect(() => {

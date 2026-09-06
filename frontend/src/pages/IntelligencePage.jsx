@@ -46,18 +46,59 @@ export const IntelligencePage = () => {
       setWork(intelRes);
       setInvestigationCase(caseRes);
       setNotes(notesRes || []);
-      setLastViewedProjectId(decodedId);
+      
+      const canonicalId = intelRes.id || intelRes.work_id || decodedId;
+      setLastViewedProjectId(canonicalId);
+      // If work was accessed via an alias like LD-2023-089, smoothly update URL to canonical ID
+      if (decodedId !== canonicalId && decodedId.toUpperCase().startsWith('LD-')) {
+        navigate(`/project/${encodeURIComponent(canonicalId)}`, { replace: true });
+      }
     } catch (err) {
       console.error('Failed to load project intelligence:', err);
       setError(err.message || `Work ID "${decodedId}" not found in active workspace.`);
     } finally {
       setIsLoading(false);
     }
-  }, [activeWorkspaceId, decodedId, setLastViewedProjectId]);
+  }, [activeWorkspaceId, decodedId, setLastViewedProjectId, navigate]);
 
   useEffect(() => {
-    fetchProjectData();
-  }, [fetchProjectData]);
+    if (!decodedId && activeWorkspaceId) {
+      setIsLoading(true);
+      api.getRiskQueue(activeWorkspaceId, { page: 1, pageSize: 1, sort: 'desc' })
+        .then((queueRes) => {
+          if (queueRes && queueRes.items && queueRes.items.length > 0) {
+            const topId = queueRes.items[0].id || queueRes.items[0].work_id;
+            navigate(`/project/${encodeURIComponent(topId)}`, { replace: true });
+          } else {
+            setIsLoading(false);
+          }
+        })
+        .catch(() => {
+          setIsLoading(false);
+        });
+    } else {
+      fetchProjectData();
+    }
+  }, [decodedId, activeWorkspaceId, fetchProjectData, navigate]);
+
+  const handleLoadTopProject = async () => {
+    if (!activeWorkspaceId) return;
+    setIsLoading(true);
+    setError(null);
+    try {
+      const queueRes = await api.getRiskQueue(activeWorkspaceId, { page: 1, pageSize: 1, sort: 'desc' });
+      if (queueRes && queueRes.items && queueRes.items.length > 0) {
+        const topId = queueRes.items[0].id || queueRes.items[0].work_id;
+        navigate(`/project/${encodeURIComponent(topId)}`);
+      } else {
+        setError('No projects available in the current workspace.');
+        setIsLoading(false);
+      }
+    } catch (err) {
+      setError(err.message || 'Failed to fetch top project.');
+      setIsLoading(false);
+    }
+  };
 
   // Refresh case status after an action
   const handleActionSuccess = async () => {
@@ -125,7 +166,11 @@ export const IntelligencePage = () => {
           message={error || `Work ID "${decodedId}" could not be retrieved.`}
           onRetry={fetchProjectData}
         />
-        <div>
+        <div className="flex items-center gap-3">
+          <button onClick={handleLoadTopProject} className="btn btn-primary btn-sm flex items-center gap-1.5">
+            <Sparkles size={14} />
+            <span>Open Top Flagged Project</span>
+          </button>
           <button onClick={() => navigate('/queue')} className="btn btn-secondary btn-sm">
             ← Return to Risk Queue
           </button>

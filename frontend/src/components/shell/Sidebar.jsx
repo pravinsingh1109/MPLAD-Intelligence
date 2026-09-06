@@ -11,7 +11,8 @@ import {
   Building2,
   Grid,
   GitCommit,
-  Layers
+  Layers,
+  Globe
 } from 'lucide-react';
 import { useApp } from '../../context/AppContext';
 import { CONSTITUENCY_INFO } from '../../api/constants';
@@ -51,7 +52,18 @@ export const Sidebar = () => {
       <nav style={{ display: 'flex', flexDirection: 'column', flex: 1, minHeight: 0, gap: 'var(--space-3)', overflowY: 'auto' }}>
         {/* Workspace & Data */}
         <div className="sidebar-nav-group">
-          <div className="sidebar-group-title">Workspace & Data</div>
+          <div className="sidebar-group-title">Navigation & Workspaces</div>
+
+          <NavLink
+            to="/"
+            className="sidebar-nav-link"
+            title="Return to Public Landing Page"
+          >
+            <div className="flex items-center gap-2">
+              <Globe size={16} color="var(--color-accent-blue)" />
+              <span>Portal Landing</span>
+            </div>
+          </NavLink>
           
           <NavLink
             to="/workspaces"
@@ -136,24 +148,16 @@ export const Sidebar = () => {
             </div>
           </NavLink>
 
-          {lastViewedProjectId && hasActiveWorkspace ? (
-            <NavLink
-              to={`/project/${encodeURIComponent(lastViewedProjectId)}`}
-              className={({ isActive }) => `sidebar-nav-link ${isActive ? 'active' : ''}`}
-            >
-              <div className="flex items-center gap-2">
-                <FileSearch size={16} />
-                <span>Project Intelligence</span>
-              </div>
-            </NavLink>
-          ) : (
-            <div className="sidebar-nav-link disabled" title="Select a project from the Risk Queue to view intelligence">
-              <div className="flex items-center gap-2">
-                <FileSearch size={16} />
-                <span>Project Intelligence</span>
-              </div>
+          <NavLink
+            to={lastViewedProjectId ? `/project/${encodeURIComponent(lastViewedProjectId)}` : '/project'}
+            className={({ isActive }) => `sidebar-nav-link ${isActive ? 'active' : ''} ${!hasActiveWorkspace ? 'disabled' : ''}`}
+            title={!hasActiveWorkspace ? 'Select a workspace first' : 'Open Project Intelligence Dossier'}
+          >
+            <div className="flex items-center gap-2">
+              <FileSearch size={16} />
+              <span>Project Intelligence</span>
             </div>
-          )}
+          </NavLink>
         </div>
 
         {/* Governance & Audit */}
